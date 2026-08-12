@@ -4193,7 +4193,7 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 97,
-          "Total": 800.87,
+          "Total": 1196.96,
           "Tipos": [
             {
               "Id": 4048,
@@ -4216,7 +4216,7 @@
                 },
                 {
                   "Id": 5128,
-                  "Nombre": "Cuota BK Leroy",
+                  "Nombre": "Cuota BK línea Directa",
                   "Total": 120.29,
                   "Tickets": [
                     {
@@ -4285,7 +4285,7 @@
               "Id": 4049,
               "Nombre": "Crédito",
               "Orden": 4049,
-              "Total": 394.48,
+              "Total": 790.57,
               "Productos": [
                 {
                   "Id": 5145,
@@ -4349,6 +4349,19 @@
                       "Fecha": "2026-07-01T00:00:00",
                       "Descripcion": "Cuota Sabadell",
                       "Importe": 14.40
+                    }
+                  ]
+                },
+                {
+                  "Id": 9163,
+                  "Nombre": "Hipoteca",
+                  "Total": 396.09,
+                  "Tickets": [
+                    {
+                      "Id": 11022,
+                      "Fecha": "2026-07-01T00:00:00",
+                      "Descripcion": "Hipoteca",
+                      "Importe": 396.09
                     }
                   ]
                 }
@@ -8175,7 +8188,7 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 97,
-          "Total": 800.87,
+          "Total": 1196.96,
           "Tipos": [
             {
               "Id": 4048,
@@ -8198,7 +8211,7 @@
                 },
                 {
                   "Id": 5128,
-                  "Nombre": "Cuota BK Leroy",
+                  "Nombre": "Cuota BK línea Directa",
                   "Total": 120.29,
                   "Tickets": [
                     {
@@ -8267,7 +8280,7 @@
               "Id": 4049,
               "Nombre": "Crédito",
               "Orden": 4049,
-              "Total": 394.48,
+              "Total": 790.57,
               "Productos": [
                 {
                   "Id": 5145,
@@ -8333,6 +8346,19 @@
                       "Importe": 14.40
                     }
                   ]
+                },
+                {
+                  "Id": 9163,
+                  "Nombre": "Hipoteca",
+                  "Total": 396.09,
+                  "Tickets": [
+                    {
+                      "Id": 11021,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Hipoteca",
+                      "Importe": 396.09
+                    }
+                  ]
                 }
               ]
             }
@@ -8342,27 +8368,14 @@
           "Id": 12,
           "Nombre": "Recibos del hogar",
           "Orden": 98,
-          "Total": 400.76,
+          "Total": 335.67,
           "Tipos": [
             {
               "Id": 4050,
               "Nombre": "Recibos",
               "Orden": 4050,
-              "Total": 400.76,
+              "Total": 335.67,
               "Productos": [
-                {
-                  "Id": 5149,
-                  "Nombre": "Agua",
-                  "Total": 65.09,
-                  "Tickets": [
-                    {
-                      "Id": 11010,
-                      "Fecha": "2026-08-01T00:00:00",
-                      "Descripcion": "Agua",
-                      "Importe": 65.09
-                    }
-                  ]
-                },
                 {
                   "Id": 5148,
                   "Nombre": "Electricidad",
@@ -10915,7 +10928,7 @@
           "Id": 3,
           "Nombre": "Higiene y cuidado personal",
           "Orden": 40,
-          "Total": 31.41,
+          "Total": 83.91,
           "Tipos": [
             {
               "Id": 24,
@@ -11021,6 +11034,27 @@
                       "Fecha": "2026-08-10T23:28:00",
                       "Descripcion": "Blisel",
                       "Importe": 0.79
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 5051,
+              "Nombre": "Peluquería",
+              "Orden": 5051,
+              "Total": 52.50,
+              "Productos": [
+                {
+                  "Id": 9164,
+                  "Nombre": "Peluquería",
+                  "Total": 52.50,
+                  "Tickets": [
+                    {
+                      "Id": 11023,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Peluquería",
+                      "Importe": 52.50
                     }
                   ]
                 }
@@ -11468,13 +11502,13 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 97,
-          "Total": 800.87,
+          "Total": 1271.29,
           "Tipos": [
             {
               "Id": 4048,
               "Nombre": "Revolving",
               "Orden": 4048,
-              "Total": 406.39,
+              "Total": 409.82,
               "Productos": [
                 {
                   "Id": 81,
@@ -11491,27 +11525,27 @@
                 },
                 {
                   "Id": 5128,
-                  "Nombre": "Cuota BK Leroy",
-                  "Total": 120.29,
+                  "Nombre": "Cuota BK línea Directa",
+                  "Total": 124.26,
                   "Tickets": [
                     {
                       "Id": 10994,
                       "Fecha": "2026-09-01T00:00:00",
-                      "Descripcion": "Cuota BK Leroy",
-                      "Importe": 120.29
+                      "Descripcion": "Cuota BK línea Directa",
+                      "Importe": 124.26
                     }
                   ]
                 },
                 {
                   "Id": 5107,
                   "Nombre": "Cuota BK Vodafone",
-                  "Total": 91.25,
+                  "Total": 90.71,
                   "Tickets": [
                     {
                       "Id": 10993,
                       "Fecha": "2026-09-01T00:00:00",
                       "Descripcion": "Cuota BK Vodafone",
-                      "Importe": 91.25
+                      "Importe": 90.71
                     }
                   ]
                 },
@@ -11560,7 +11594,7 @@
               "Id": 4049,
               "Nombre": "Crédito",
               "Orden": 4049,
-              "Total": 394.48,
+              "Total": 861.47,
               "Productos": [
                 {
                   "Id": 5145,
@@ -11626,6 +11660,32 @@
                       "Importe": 14.40
                     }
                   ]
+                },
+                {
+                  "Id": 9161,
+                  "Nombre": "Fracción Endesa",
+                  "Total": 70.90,
+                  "Tickets": [
+                    {
+                      "Id": 11019,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Endesa fraccionado",
+                      "Importe": 70.90
+                    }
+                  ]
+                },
+                {
+                  "Id": 9163,
+                  "Nombre": "Hipoteca",
+                  "Total": 396.09,
+                  "Tickets": [
+                    {
+                      "Id": 11020,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Hipoteca",
+                      "Importe": 396.09
+                    }
+                  ]
                 }
               ]
             }
@@ -11635,24 +11695,37 @@
           "Id": 12,
           "Nombre": "Recibos del hogar",
           "Orden": 98,
-          "Total": 253.52,
+          "Total": 247.50,
           "Tipos": [
             {
               "Id": 4050,
               "Nombre": "Recibos",
               "Orden": 4050,
-              "Total": 253.52,
+              "Total": 247.50,
               "Productos": [
+                {
+                  "Id": 5149,
+                  "Nombre": "Agua",
+                  "Total": 65.09,
+                  "Tickets": [
+                    {
+                      "Id": 11010,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Agua",
+                      "Importe": 65.09
+                    }
+                  ]
+                },
                 {
                   "Id": 5148,
                   "Nombre": "Electricidad",
-                  "Total": 147.11,
+                  "Total": 76.00,
                   "Tickets": [
                     {
                       "Id": 11001,
                       "Fecha": "2026-09-01T00:00:00",
                       "Descripcion": "Electricidad",
-                      "Importe": 147.11
+                      "Importe": 76.00
                     }
                   ]
                 },
