@@ -4193,7 +4193,7 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 97,
-          "Total": 729.97,
+          "Total": 800.87,
           "Tipos": [
             {
               "Id": 4048,
@@ -4285,7 +4285,7 @@
               "Id": 4049,
               "Nombre": "Crédito",
               "Orden": 4049,
-              "Total": 323.58,
+              "Total": 394.48,
               "Productos": [
                 {
                   "Id": 5145,
@@ -4310,6 +4310,19 @@
                       "Fecha": "2026-07-01T00:00:00",
                       "Descripcion": "Cuota BBVA 6%",
                       "Importe": 143.07
+                    }
+                  ]
+                },
+                {
+                  "Id": 9158,
+                  "Nombre": "Cuota BBVA 6,3%",
+                  "Total": 70.90,
+                  "Tickets": [
+                    {
+                      "Id": 10997,
+                      "Fecha": "2026-07-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,3% Boda",
+                      "Importe": 70.90
                     }
                   ]
                 },
@@ -8029,7 +8042,7 @@
           "Id": 8,
           "Nombre": "Servicios",
           "Orden": 80,
-          "Total": 0.40,
+          "Total": 75.79,
           "Tipos": [
             {
               "Id": 32,
@@ -8051,6 +8064,48 @@
                   ]
                 }
               ]
+            },
+            {
+              "Id": 1039,
+              "Nombre": "Butano",
+              "Orden": 1039,
+              "Total": 15.39,
+              "Productos": [
+                {
+                  "Id": 2074,
+                  "Nombre": "Butano",
+                  "Total": 15.39,
+                  "Tickets": [
+                    {
+                      "Id": 11006,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Butano",
+                      "Importe": 15.39
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 5050,
+              "Nombre": "Comunidadd",
+              "Orden": 5050,
+              "Total": 60.00,
+              "Productos": [
+                {
+                  "Id": 9160,
+                  "Nombre": "Comunidad",
+                  "Total": 60.00,
+                  "Tickets": [
+                    {
+                      "Id": 11008,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota comunidad",
+                      "Importe": 60.00
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -8058,8 +8113,29 @@
           "Id": 9,
           "Nombre": "Automoción",
           "Orden": 90,
-          "Total": 108.47,
+          "Total": 140.35,
           "Tipos": [
+            {
+              "Id": 15,
+              "Nombre": "Mantenimiento vehículo",
+              "Orden": 15,
+              "Total": 31.88,
+              "Productos": [
+                {
+                  "Id": 9159,
+                  "Nombre": "Seguro",
+                  "Total": 31.88,
+                  "Tickets": [
+                    {
+                      "Id": 11002,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Seguro vehículo",
+                      "Importe": 31.88
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "Id": 4046,
               "Nombre": "Gasoil",
@@ -8099,7 +8175,7 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 97,
-          "Total": 729.97,
+          "Total": 800.87,
           "Tipos": [
             {
               "Id": 4048,
@@ -8191,7 +8267,7 @@
               "Id": 4049,
               "Nombre": "Crédito",
               "Orden": 4049,
-              "Total": 323.58,
+              "Total": 394.48,
               "Productos": [
                 {
                   "Id": 5145,
@@ -8220,6 +8296,19 @@
                   ]
                 },
                 {
+                  "Id": 9158,
+                  "Nombre": "Cuota BBVA 6,3%",
+                  "Total": 70.90,
+                  "Tickets": [
+                    {
+                      "Id": 10998,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,3% Boda",
+                      "Importe": 70.90
+                    }
+                  ]
+                },
+                {
                   "Id": 5146,
                   "Nombre": "Cuota BBVA 6,75%",
                   "Total": 131.72,
@@ -8242,6 +8331,100 @@
                       "Fecha": "2026-08-01T00:00:00",
                       "Descripcion": "Cuota Sabadell",
                       "Importe": 14.40
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 12,
+          "Nombre": "Recibos del hogar",
+          "Orden": 98,
+          "Total": 400.76,
+          "Tipos": [
+            {
+              "Id": 4050,
+              "Nombre": "Recibos",
+              "Orden": 4050,
+              "Total": 400.76,
+              "Productos": [
+                {
+                  "Id": 5149,
+                  "Nombre": "Agua",
+                  "Total": 65.09,
+                  "Tickets": [
+                    {
+                      "Id": 11010,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Agua",
+                      "Importe": 65.09
+                    }
+                  ]
+                },
+                {
+                  "Id": 5148,
+                  "Nombre": "Electricidad",
+                  "Total": 209.41,
+                  "Tickets": [
+                    {
+                      "Id": 11000,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Electricidad",
+                      "Importe": 209.41
+                    }
+                  ]
+                },
+                {
+                  "Id": 5153,
+                  "Nombre": "Netflix",
+                  "Total": 8.99,
+                  "Tickets": [
+                    {
+                      "Id": 11017,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Netflix",
+                      "Importe": 8.99
+                    }
+                  ]
+                },
+                {
+                  "Id": 5152,
+                  "Nombre": "OBE",
+                  "Total": 19.85,
+                  "Tickets": [
+                    {
+                      "Id": 11015,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Autopistas",
+                      "Importe": 19.85
+                    }
+                  ]
+                },
+                {
+                  "Id": 5151,
+                  "Nombre": "Seguro de vida",
+                  "Total": 27.42,
+                  "Tickets": [
+                    {
+                      "Id": 11011,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Seguro de vida",
+                      "Importe": 27.42
+                    }
+                  ]
+                },
+                {
+                  "Id": 5150,
+                  "Nombre": "Teléfono/Datos & TV",
+                  "Total": 70.00,
+                  "Tickets": [
+                    {
+                      "Id": 11013,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Teléfono/Datos & TV",
+                      "Importe": 70.00
                     }
                   ]
                 }
@@ -11135,11 +11318,82 @@
           ]
         },
         {
+          "Id": 8,
+          "Nombre": "Servicios",
+          "Orden": 80,
+          "Total": 75.39,
+          "Tipos": [
+            {
+              "Id": 1039,
+              "Nombre": "Butano",
+              "Orden": 1039,
+              "Total": 15.39,
+              "Productos": [
+                {
+                  "Id": 2074,
+                  "Nombre": "Butano",
+                  "Total": 15.39,
+                  "Tickets": [
+                    {
+                      "Id": 11007,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Butano",
+                      "Importe": 15.39
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 5050,
+              "Nombre": "Comunidadd",
+              "Orden": 5050,
+              "Total": 60.00,
+              "Productos": [
+                {
+                  "Id": 9160,
+                  "Nombre": "Comunidad",
+                  "Total": 60.00,
+                  "Tickets": [
+                    {
+                      "Id": 11009,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota comunidad",
+                      "Importe": 60.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "Id": 9,
           "Nombre": "Automoción",
           "Orden": 90,
-          "Total": 200.00,
+          "Total": 231.88,
           "Tipos": [
+            {
+              "Id": 15,
+              "Nombre": "Mantenimiento vehículo",
+              "Orden": 15,
+              "Total": 31.88,
+              "Productos": [
+                {
+                  "Id": 9159,
+                  "Nombre": "Seguro",
+                  "Total": 31.88,
+                  "Tickets": [
+                    {
+                      "Id": 11003,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Seguro vehículo",
+                      "Importe": 31.88
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "Id": 4046,
               "Nombre": "Gasoil",
@@ -11214,7 +11468,7 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 97,
-          "Total": 729.97,
+          "Total": 800.87,
           "Tipos": [
             {
               "Id": 4048,
@@ -11306,7 +11560,7 @@
               "Id": 4049,
               "Nombre": "Crédito",
               "Orden": 4049,
-              "Total": 323.58,
+              "Total": 394.48,
               "Productos": [
                 {
                   "Id": 5145,
@@ -11335,6 +11589,19 @@
                   ]
                 },
                 {
+                  "Id": 9158,
+                  "Nombre": "Cuota BBVA 6,3%",
+                  "Total": 70.90,
+                  "Tickets": [
+                    {
+                      "Id": 10999,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,3% Boda",
+                      "Importe": 70.90
+                    }
+                  ]
+                },
+                {
                   "Id": 5146,
                   "Nombre": "Cuota BBVA 6,75%",
                   "Total": 131.72,
@@ -11357,6 +11624,74 @@
                       "Fecha": "2026-09-01T00:00:00",
                       "Descripcion": "Cuota Sabadell",
                       "Importe": 14.40
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 12,
+          "Nombre": "Recibos del hogar",
+          "Orden": 98,
+          "Total": 253.52,
+          "Tipos": [
+            {
+              "Id": 4050,
+              "Nombre": "Recibos",
+              "Orden": 4050,
+              "Total": 253.52,
+              "Productos": [
+                {
+                  "Id": 5148,
+                  "Nombre": "Electricidad",
+                  "Total": 147.11,
+                  "Tickets": [
+                    {
+                      "Id": 11001,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Electricidad",
+                      "Importe": 147.11
+                    }
+                  ]
+                },
+                {
+                  "Id": 5153,
+                  "Nombre": "Netflix",
+                  "Total": 8.99,
+                  "Tickets": [
+                    {
+                      "Id": 11018,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Netflix",
+                      "Importe": 8.99
+                    }
+                  ]
+                },
+                {
+                  "Id": 5151,
+                  "Nombre": "Seguro de vida",
+                  "Total": 27.42,
+                  "Tickets": [
+                    {
+                      "Id": 11012,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Seguro de vida",
+                      "Importe": 27.42
+                    }
+                  ]
+                },
+                {
+                  "Id": 5150,
+                  "Nombre": "Teléfono/Datos & TV",
+                  "Total": 70.00,
+                  "Tickets": [
+                    {
+                      "Id": 11014,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Teléfono/Datos & TV",
+                      "Importe": 70.00
                     }
                   ]
                 }
