@@ -4193,13 +4193,13 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 97,
-          "Total": 699.97,
+          "Total": 729.97,
           "Tipos": [
             {
               "Id": 4048,
               "Nombre": "Revolving",
               "Orden": 4048,
-              "Total": 376.39,
+              "Total": 406.39,
               "Productos": [
                 {
                   "Id": 81,
@@ -4250,6 +4250,19 @@
                       "Fecha": "2026-07-01T00:00:00",
                       "Descripcion": "Cuota Cetelem",
                       "Importe": 64.85
+                    }
+                  ]
+                },
+                {
+                  "Id": 5129,
+                  "Nombre": "Cuota Eroski",
+                  "Total": 30.00,
+                  "Tickets": [
+                    {
+                      "Id": 5719,
+                      "Fecha": "2026-07-01T00:00:00",
+                      "Descripcion": "Cuota Eroski",
+                      "Importe": 30.00
                     }
                   ]
                 },
@@ -4423,7 +4436,7 @@
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 667.05,
+          "Total": 673.83,
           "Tipos": [
             {
               "Id": 10,
@@ -4810,7 +4823,7 @@
               "Id": 17,
               "Nombre": "Lácteos",
               "Orden": 17,
-              "Total": 55.25,
+              "Total": 62.03,
               "Productos": [
                 {
                   "Id": 33,
@@ -4865,7 +4878,7 @@
                 {
                   "Id": 42,
                   "Nombre": "Queso cocinar",
-                  "Total": 10.15,
+                  "Total": 16.93,
                   "Tickets": [
                     {
                       "Id": 5666,
@@ -4892,10 +4905,22 @@
                       "Importe": 1.39
                     },
                     {
+                      "Id": 5687,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "FETA DOP AUCHAN",
+                      "Importe": 3.39
+                    },
+                    {
                       "Id": 5772,
                       "Fecha": "2026-06-25T19:16:13",
                       "Descripcion": "Q. UNTAR DE CABRA",
                       "Importe": 1.75
+                    },
+                    {
+                      "Id": 5820,
+                      "Fecha": "2026-07-04T19:59:29",
+                      "Descripcion": "FETA DOP AUCHAN",
+                      "Importe": 3.39
                     },
                     {
                       "Id": 6759,
@@ -8074,30 +8099,149 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 97,
-          "Total": 6.78,
+          "Total": 729.97,
           "Tipos": [
             {
               "Id": 4048,
               "Nombre": "Revolving",
               "Orden": 4048,
-              "Total": 6.78,
+              "Total": 406.39,
               "Productos": [
+                {
+                  "Id": 81,
+                  "Nombre": "Cuota Alcampo",
+                  "Total": 50.00,
+                  "Tickets": [
+                    {
+                      "Id": 10984,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota Alcampo",
+                      "Importe": 50.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 5128,
+                  "Nombre": "Cuota BK Leroy",
+                  "Total": 120.29,
+                  "Tickets": [
+                    {
+                      "Id": 10988,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota BK Leroy",
+                      "Importe": 120.29
+                    }
+                  ]
+                },
                 {
                   "Id": 5107,
                   "Nombre": "Cuota BK Vodafone",
-                  "Total": 6.78,
+                  "Total": 91.25,
                   "Tickets": [
                     {
-                      "Id": 5687,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "FETA DOP AUCHAN",
-                      "Importe": 3.39
-                    },
+                      "Id": 10987,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota BK Vodafone",
+                      "Importe": 91.25
+                    }
+                  ]
+                },
+                {
+                  "Id": 4077,
+                  "Nombre": "Cuota Cetelem",
+                  "Total": 64.85,
+                  "Tickets": [
                     {
-                      "Id": 5820,
-                      "Fecha": "2026-07-04T19:59:29",
-                      "Descripcion": "FETA DOP AUCHAN",
-                      "Importe": 3.39
+                      "Id": 10986,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota Cetelem",
+                      "Importe": 64.85
+                    }
+                  ]
+                },
+                {
+                  "Id": 5129,
+                  "Nombre": "Cuota Eroski",
+                  "Total": 30.00,
+                  "Tickets": [
+                    {
+                      "Id": 10989,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota Eroski",
+                      "Importe": 30.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 82,
+                  "Nombre": "Cuota Leroy",
+                  "Total": 50.00,
+                  "Tickets": [
+                    {
+                      "Id": 10985,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota Leroy",
+                      "Importe": 50.00
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4049,
+              "Nombre": "Crédito",
+              "Orden": 4049,
+              "Total": 323.58,
+              "Productos": [
+                {
+                  "Id": 5145,
+                  "Nombre": "Cuota BBVA 10,5%",
+                  "Total": 34.39,
+                  "Tickets": [
+                    {
+                      "Id": 10973,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 10,5%",
+                      "Importe": 34.39
+                    }
+                  ]
+                },
+                {
+                  "Id": 5147,
+                  "Nombre": "Cuota BBVA 6%",
+                  "Total": 143.07,
+                  "Tickets": [
+                    {
+                      "Id": 10975,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6%",
+                      "Importe": 143.07
+                    }
+                  ]
+                },
+                {
+                  "Id": 5146,
+                  "Nombre": "Cuota BBVA 6,75%",
+                  "Total": 131.72,
+                  "Tickets": [
+                    {
+                      "Id": 10974,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,75%",
+                      "Importe": 131.72
+                    }
+                  ]
+                },
+                {
+                  "Id": 5144,
+                  "Nombre": "Cuota Sabadell",
+                  "Total": 14.40,
+                  "Tickets": [
+                    {
+                      "Id": 10972,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota Sabadell",
+                      "Importe": 14.40
                     }
                   ]
                 }
@@ -8117,7 +8261,7 @@
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 494.77,
+          "Total": 507.51,
           "Tipos": [
             {
               "Id": 10,
@@ -8475,7 +8619,7 @@
               "Id": 17,
               "Nombre": "Lácteos",
               "Orden": 17,
-              "Total": 53.37,
+              "Total": 66.11,
               "Productos": [
                 {
                   "Id": 33,
@@ -8549,8 +8693,20 @@
                 {
                   "Id": 42,
                   "Nombre": "Queso cocinar",
-                  "Total": 8.33,
+                  "Total": 21.07,
                   "Tickets": [
+                    {
+                      "Id": 9746,
+                      "Fecha": "2026-07-20T14:06:24",
+                      "Descripcion": "QUESO FETA AOP",
+                      "Importe": 2.79
+                    },
+                    {
+                      "Id": 9748,
+                      "Fecha": "2026-07-20T14:06:24",
+                      "Descripcion": "QUESO FRSC.GRANULADO,2",
+                      "Importe": 1.15
+                    },
                     {
                       "Id": 9796,
                       "Fecha": "2026-07-22T14:19:11",
@@ -8558,10 +8714,34 @@
                       "Importe": 1.37
                     },
                     {
+                      "Id": 10798,
+                      "Fecha": "2026-07-24T20:08:00",
+                      "Descripcion": "RICOTTA",
+                      "Importe": 1.60
+                    },
+                    {
+                      "Id": 10830,
+                      "Fecha": "2026-08-01T19:36:00",
+                      "Descripcion": "QUESO FETA",
+                      "Importe": 2.40
+                    },
+                    {
                       "Id": 10847,
                       "Fecha": "2026-08-03T20:06:00",
                       "Descripcion": "QUESO COTTAGE",
                       "Importe": 1.50
+                    },
+                    {
+                      "Id": 10857,
+                      "Fecha": "2026-08-04T21:30:00",
+                      "Descripcion": "QUESO FETA",
+                      "Importe": 2.40
+                    },
+                    {
+                      "Id": 10890,
+                      "Fecha": "2026-08-08T20:33:00",
+                      "Descripcion": "QUESO FETA",
+                      "Importe": 2.40
                     },
                     {
                       "Id": 10892,
@@ -10958,18 +11138,18 @@
           "Id": 9,
           "Nombre": "Automoción",
           "Orden": 90,
-          "Total": 169.49,
+          "Total": 200.00,
           "Tipos": [
             {
               "Id": 4046,
               "Nombre": "Gasoil",
               "Orden": 4046,
-              "Total": 169.49,
+              "Total": 200.00,
               "Productos": [
                 {
                   "Id": 5127,
                   "Nombre": "Gasoil",
-                  "Total": 169.49,
+                  "Total": 200.00,
                   "Tickets": [
                     {
                       "Id": 10904,
@@ -10988,6 +11168,12 @@
                       "Fecha": "2026-08-10T20:00:00",
                       "Descripcion": "Gasoil",
                       "Importe": 40.00
+                    },
+                    {
+                      "Id": 10971,
+                      "Fecha": "2026-08-19T00:00:00",
+                      "Descripcion": "Gasoil presupuestado",
+                      "Importe": 30.51
                     }
                   ]
                 }
@@ -11028,61 +11214,149 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 97,
-          "Total": 12.74,
+          "Total": 729.97,
           "Tipos": [
             {
               "Id": 4048,
               "Nombre": "Revolving",
               "Orden": 4048,
-              "Total": 12.74,
+              "Total": 406.39,
               "Productos": [
+                {
+                  "Id": 81,
+                  "Nombre": "Cuota Alcampo",
+                  "Total": 50.00,
+                  "Tickets": [
+                    {
+                      "Id": 10990,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota Alcampo",
+                      "Importe": 50.00
+                    }
+                  ]
+                },
                 {
                   "Id": 5128,
                   "Nombre": "Cuota BK Leroy",
-                  "Total": 2.75,
+                  "Total": 120.29,
                   "Tickets": [
                     {
-                      "Id": 9748,
-                      "Fecha": "2026-07-20T14:06:24",
-                      "Descripcion": "QUESO FRSC.GRANULADO,2",
-                      "Importe": 1.15
-                    },
-                    {
-                      "Id": 10798,
-                      "Fecha": "2026-07-24T20:08:00",
-                      "Descripcion": "RICOTTA",
-                      "Importe": 1.60
+                      "Id": 10994,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota BK Leroy",
+                      "Importe": 120.29
                     }
                   ]
                 },
                 {
                   "Id": 5107,
                   "Nombre": "Cuota BK Vodafone",
-                  "Total": 9.99,
+                  "Total": 91.25,
                   "Tickets": [
                     {
-                      "Id": 9746,
-                      "Fecha": "2026-07-20T14:06:24",
-                      "Descripcion": "QUESO FETA AOP",
-                      "Importe": 2.79
-                    },
+                      "Id": 10993,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota BK Vodafone",
+                      "Importe": 91.25
+                    }
+                  ]
+                },
+                {
+                  "Id": 4077,
+                  "Nombre": "Cuota Cetelem",
+                  "Total": 64.85,
+                  "Tickets": [
                     {
-                      "Id": 10830,
-                      "Fecha": "2026-08-01T19:36:00",
-                      "Descripcion": "QUESO FETA",
-                      "Importe": 2.40
-                    },
+                      "Id": 10992,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota Cetelem",
+                      "Importe": 64.85
+                    }
+                  ]
+                },
+                {
+                  "Id": 5129,
+                  "Nombre": "Cuota Eroski",
+                  "Total": 30.00,
+                  "Tickets": [
                     {
-                      "Id": 10857,
-                      "Fecha": "2026-08-04T21:30:00",
-                      "Descripcion": "QUESO FETA",
-                      "Importe": 2.40
-                    },
+                      "Id": 10995,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota Eroski",
+                      "Importe": 30.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 82,
+                  "Nombre": "Cuota Leroy",
+                  "Total": 50.00,
+                  "Tickets": [
                     {
-                      "Id": 10890,
-                      "Fecha": "2026-08-08T20:33:00",
-                      "Descripcion": "QUESO FETA",
-                      "Importe": 2.40
+                      "Id": 10991,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota Leroy",
+                      "Importe": 50.00
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4049,
+              "Nombre": "Crédito",
+              "Orden": 4049,
+              "Total": 323.58,
+              "Productos": [
+                {
+                  "Id": 5145,
+                  "Nombre": "Cuota BBVA 10,5%",
+                  "Total": 34.39,
+                  "Tickets": [
+                    {
+                      "Id": 10977,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 10,5%",
+                      "Importe": 34.39
+                    }
+                  ]
+                },
+                {
+                  "Id": 5147,
+                  "Nombre": "Cuota BBVA 6%",
+                  "Total": 143.07,
+                  "Tickets": [
+                    {
+                      "Id": 10979,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6%",
+                      "Importe": 143.07
+                    }
+                  ]
+                },
+                {
+                  "Id": 5146,
+                  "Nombre": "Cuota BBVA 6,75%",
+                  "Total": 131.72,
+                  "Tickets": [
+                    {
+                      "Id": 10978,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,75%",
+                      "Importe": 131.72
+                    }
+                  ]
+                },
+                {
+                  "Id": 5144,
+                  "Nombre": "Cuota Sabadell",
+                  "Total": 14.40,
+                  "Tickets": [
+                    {
+                      "Id": 10976,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota Sabadell",
+                      "Importe": 14.40
                     }
                   ]
                 }
