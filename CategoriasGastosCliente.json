@@ -8536,13 +8536,13 @@
                 {
                   "Id": 9157,
                   "Nombre": "Mantequilla",
-                  "Total": 3.4,
+                  "Total": 3.40,
                   "Tickets": [
                     {
                       "Id": 10949,
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "MANT. ASTURIANA",
-                      "Importe": 3.4
+                      "Importe": 3.40
                     }
                   ]
                 },
@@ -9675,7 +9675,7 @@
                       "Id": 10933,
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "PAVO A TACOS",
-                      "Importe": 3.9
+                      "Importe": 3.90
                     }
                   ]
                 },
@@ -10495,7 +10495,7 @@
                       "Id": 10968,
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "SUAVIZANTE VERNE",
-                      "Importe": 2.9
+                      "Importe": 2.90
                     }
                   ]
                 }
