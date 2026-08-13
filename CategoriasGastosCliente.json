@@ -5,6 +5,7 @@
       "Nombre": "mayo - junio",
       "Desde": "2026-05-20T00:00:00",
       "Hasta": "2026-06-19T00:00:00",
+      "Presupuesto": 2400.00,
       "Categorias": [
         {
           "Id": 1,
@@ -4457,6 +4458,7 @@
       "Nombre": "junio - julio",
       "Desde": "2026-06-20T00:00:00",
       "Hasta": "2026-07-19T00:00:00",
+      "Presupuesto": 2400.00,
       "Categorias": [
         {
           "Id": 1,
@@ -8452,6 +8454,7 @@
       "Nombre": "julio - agosto",
       "Desde": "2026-07-20T00:00:00",
       "Hasta": "2026-08-20T00:00:00",
+      "Presupuesto": 2400.00,
       "Categorias": [
         {
           "Id": 1,
