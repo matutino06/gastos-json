@@ -4464,7 +4464,7 @@
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 674.79,
+          "Total": 677.77,
           "Tipos": [
             {
               "Id": 10,
@@ -4851,7 +4851,7 @@
               "Id": 17,
               "Nombre": "Lácteos",
               "Orden": 17,
-              "Total": 62.99,
+              "Total": 65.97,
               "Productos": [
                 {
                   "Id": 33,
@@ -4912,7 +4912,7 @@
                 {
                   "Id": 42,
                   "Nombre": "Queso cocinar",
-                  "Total": 16.93,
+                  "Total": 19.91,
                   "Tickets": [
                     {
                       "Id": 5666,
@@ -4931,6 +4931,12 @@
                       "Fecha": "2026-06-20T20:05:58",
                       "Descripcion": "QUESO FRESCO COT",
                       "Importe": 1.65
+                    },
+                    {
+                      "Id": 5683,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "Q FRESCO CABRA",
+                      "Importe": 2.98
                     },
                     {
                       "Id": 5686,
@@ -7065,7 +7071,7 @@
           "Id": 4,
           "Nombre": "Hogar y limpieza",
           "Orden": 20,
-          "Total": 43.35,
+          "Total": 40.37,
           "Tipos": [
             {
               "Id": 5,
@@ -7338,19 +7344,13 @@
               "Id": 4040,
               "Nombre": "Plantas y jardinería",
               "Orden": 4040,
-              "Total": 19.80,
+              "Total": 16.82,
               "Productos": [
                 {
                   "Id": 5075,
                   "Nombre": "Helados",
-                  "Total": 19.80,
+                  "Total": 16.82,
                   "Tickets": [
-                    {
-                      "Id": 5683,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "Q FRESCO CABRA",
-                      "Importe": 2.98
-                    },
                     {
                       "Id": 5640,
                       "Fecha": "2026-06-23T13:15:00",
@@ -8466,7 +8466,7 @@
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 536.33,
+          "Total": 546.36,
           "Tipos": [
             {
               "Id": 10,
@@ -8837,7 +8837,7 @@
               "Id": 17,
               "Nombre": "Lácteos",
               "Orden": 17,
-              "Total": 69.29,
+              "Total": 79.32,
               "Productos": [
                 {
                   "Id": 33,
@@ -8911,7 +8911,7 @@
                 {
                   "Id": 42,
                   "Nombre": "Queso cocinar",
-                  "Total": 21.07,
+                  "Total": 31.10,
                   "Tickets": [
                     {
                       "Id": 9746,
@@ -8932,10 +8932,22 @@
                       "Importe": 1.37
                     },
                     {
+                      "Id": 9806,
+                      "Fecha": "2026-07-22T14:19:11",
+                      "Descripcion": "Q FRESCO CABRA",
+                      "Importe": 2.99
+                    },
+                    {
                       "Id": 10798,
                       "Fecha": "2026-07-24T20:08:00",
                       "Descripcion": "RICOTTA",
                       "Importe": 1.60
+                    },
+                    {
+                      "Id": 10817,
+                      "Fecha": "2026-07-29T19:23:00",
+                      "Descripcion": "QUESO FRESCO DESNATA",
+                      "Importe": 1.10
                     },
                     {
                       "Id": 10830,
@@ -8954,6 +8966,12 @@
                       "Fecha": "2026-08-04T21:30:00",
                       "Descripcion": "QUESO FETA",
                       "Importe": 2.40
+                    },
+                    {
+                      "Id": 10862,
+                      "Fecha": "2026-08-04T21:30:00",
+                      "Descripcion": "QUESO FRESCO CABRA",
+                      "Importe": 2.95
                     },
                     {
                       "Id": 10890,
@@ -8978,6 +8996,12 @@
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "Q. ATHOS TGT 200G",
                       "Importe": 2.55
+                    },
+                    {
+                      "Id": 10955,
+                      "Fecha": "2026-08-10T21:42:29",
+                      "Descripcion": "Q FRESCO CABRA",
+                      "Importe": 2.99
                     }
                   ]
                 },
@@ -10742,7 +10766,7 @@
           "Id": 4,
           "Nombre": "Hogar y limpieza",
           "Orden": 20,
-          "Total": 47.28,
+          "Total": 37.25,
           "Tipos": [
             {
               "Id": 5,
@@ -11011,41 +11035,17 @@
               "Id": 4040,
               "Nombre": "Plantas y jardinería",
               "Orden": 4040,
-              "Total": 13.02,
+              "Total": 2.99,
               "Productos": [
                 {
                   "Id": 5075,
                   "Nombre": "Helados",
-                  "Total": 13.02,
+                  "Total": 2.99,
                   "Tickets": [
-                    {
-                      "Id": 9806,
-                      "Fecha": "2026-07-22T14:19:11",
-                      "Descripcion": "Q FRESCO CABRA",
-                      "Importe": 2.99
-                    },
                     {
                       "Id": 9855,
                       "Fecha": "2026-07-27T21:35:55",
                       "Descripcion": "MAGNUM MINI CLAS",
-                      "Importe": 2.99
-                    },
-                    {
-                      "Id": 10817,
-                      "Fecha": "2026-07-29T19:23:00",
-                      "Descripcion": "QUESO FRESCO DESNATA",
-                      "Importe": 1.10
-                    },
-                    {
-                      "Id": 10862,
-                      "Fecha": "2026-08-04T21:30:00",
-                      "Descripcion": "QUESO FRESCO CABRA",
-                      "Importe": 2.95
-                    },
-                    {
-                      "Id": 10955,
-                      "Fecha": "2026-08-10T21:42:29",
-                      "Descripcion": "Q FRESCO CABRA",
                       "Importe": 2.99
                     }
                   ]
