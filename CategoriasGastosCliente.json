@@ -5,7 +5,7 @@
       "Nombre": "mayo - junio",
       "Desde": "2026-05-20T00:00:00",
       "Hasta": "2026-06-19T00:00:00",
-      "Presupuesto": 2400.00,
+      "Presupuesto": 2445.91,
       "Categorias": [
         {
           "Id": 1,
@@ -4458,13 +4458,13 @@
       "Nombre": "junio - julio",
       "Desde": "2026-06-20T00:00:00",
       "Hasta": "2026-07-19T00:00:00",
-      "Presupuesto": 2400.00,
+      "Presupuesto": 2574.30,
       "Categorias": [
         {
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 673.83,
+          "Total": 674.79,
           "Tipos": [
             {
               "Id": 10,
@@ -4851,12 +4851,12 @@
               "Id": 17,
               "Nombre": "Lácteos",
               "Orden": 17,
-              "Total": 62.03,
+              "Total": 62.99,
               "Productos": [
                 {
                   "Id": 33,
                   "Nombre": "Leche",
-                  "Total": 5.34,
+                  "Total": 6.30,
                   "Tickets": [
                     {
                       "Id": 5769,
@@ -4881,6 +4881,12 @@
                       "Fecha": "2026-07-01T21:03:04",
                       "Descripcion": "ENTERA SD 1L",
                       "Importe": 0.95
+                    },
+                    {
+                      "Id": 10757,
+                      "Fecha": "2026-07-17T20:24:00",
+                      "Descripcion": "LECHE ENTERA",
+                      "Importe": 0.96
                     },
                     {
                       "Id": 10768,
@@ -8454,13 +8460,13 @@
       "Nombre": "julio - agosto",
       "Desde": "2026-07-20T00:00:00",
       "Hasta": "2026-08-20T00:00:00",
-      "Presupuesto": 2400.00,
+      "Presupuesto": 2445.91,
       "Categorias": [
         {
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 507.51,
+          "Total": 536.33,
           "Tipos": [
             {
               "Id": 10,
@@ -8599,7 +8605,7 @@
               "Id": 13,
               "Nombre": "Conservas",
               "Orden": 13,
-              "Total": 25.36,
+              "Total": 27.25,
               "Productos": [
                 {
                   "Id": 5076,
@@ -8656,6 +8662,19 @@
                       "Fecha": "2026-07-30T13:45:00",
                       "Descripcion": "GUISANTES",
                       "Importe": 0.95
+                    }
+                  ]
+                },
+                {
+                  "Id": 9168,
+                  "Nombre": "Hummus",
+                  "Total": 1.89,
+                  "Tickets": [
+                    {
+                      "Id": 10959,
+                      "Fecha": "2026-08-10T21:42:29",
+                      "Descripcion": "HUMMUS DE GARBAN",
+                      "Importe": 1.89
                     }
                   ]
                 },
@@ -8818,7 +8837,7 @@
               "Id": 17,
               "Nombre": "Lácteos",
               "Orden": 17,
-              "Total": 66.11,
+              "Total": 69.29,
               "Productos": [
                 {
                   "Id": 33,
@@ -9021,7 +9040,7 @@
                 {
                   "Id": 9156,
                   "Nombre": "Yogur",
-                  "Total": 2.78,
+                  "Total": 5.96,
                   "Tickets": [
                     {
                       "Id": 10960,
@@ -9034,6 +9053,18 @@
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "YOGUR AUCHAN X8",
                       "Importe": 1.39
+                    },
+                    {
+                      "Id": 11032,
+                      "Fecha": "2026-08-13T20:17:18",
+                      "Descripcion": "XXL YOGUR NATURAL ECOL",
+                      "Importe": 1.59
+                    },
+                    {
+                      "Id": 11033,
+                      "Fecha": "2026-08-13T20:17:18",
+                      "Descripcion": "XXL YOGUR NATURAL ECOL",
+                      "Importe": 1.59
                     }
                   ]
                 },
@@ -9108,6 +9139,33 @@
                       "Fecha": "2026-07-28T19:50:00",
                       "Descripcion": "ALPRO NAT SOJA COCO",
                       "Importe": 2.30
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 21,
+              "Nombre": "Vinagres",
+              "Orden": 21,
+              "Total": 3.98,
+              "Productos": [
+                {
+                  "Id": 51,
+                  "Nombre": "Vinagre de manzana",
+                  "Total": 3.98,
+                  "Tickets": [
+                    {
+                      "Id": 11030,
+                      "Fecha": "2026-08-13T20:17:18",
+                      "Descripcion": "ECO GUTBIO SURT VINAGR",
+                      "Importe": 1.99
+                    },
+                    {
+                      "Id": 11031,
+                      "Fecha": "2026-08-13T20:17:18",
+                      "Descripcion": "ECO GUTBIO SURT VINAGR",
+                      "Importe": 1.99
                     }
                   ]
                 }
@@ -9752,7 +9810,7 @@
               "Id": 30,
               "Nombre": "Frutos secos",
               "Orden": 30,
-              "Total": 9.80,
+              "Total": 16.28,
               "Productos": [
                 {
                   "Id": 8156,
@@ -9768,6 +9826,19 @@
                   ]
                 },
                 {
+                  "Id": 5118,
+                  "Nombre": "Cocktail",
+                  "Total": 2.49,
+                  "Tickets": [
+                    {
+                      "Id": 11034,
+                      "Fecha": "2026-08-13T20:17:18",
+                      "Descripcion": "FRUTOS SECOS NATURALES",
+                      "Importe": 2.49
+                    }
+                  ]
+                },
+                {
                   "Id": 5109,
                   "Nombre": "Coco rallado",
                   "Total": 1.69,
@@ -9777,6 +9848,19 @@
                       "Fecha": "2026-07-27T21:35:55",
                       "Descripcion": "COCO RALLADO BIO",
                       "Importe": 1.69
+                    }
+                  ]
+                },
+                {
+                  "Id": 9167,
+                  "Nombre": "Crema de anacardos",
+                  "Total": 3.99,
+                  "Tickets": [
+                    {
+                      "Id": 11037,
+                      "Fecha": "2026-08-13T20:17:18",
+                      "Descripcion": "ECO CREMA DE ANACARDOS",
+                      "Importe": 3.99
                     }
                   ]
                 },
@@ -9811,7 +9895,7 @@
               "Id": 31,
               "Nombre": "Pasteles & Bollería",
               "Orden": 31,
-              "Total": 53.74,
+              "Total": 65.34,
               "Productos": [
                 {
                   "Id": 9147,
@@ -9829,7 +9913,7 @@
                 {
                   "Id": 60,
                   "Nombre": "Bollería",
-                  "Total": 26.80,
+                  "Total": 38.40,
                   "Tickets": [
                     {
                       "Id": 9833,
@@ -9908,6 +9992,30 @@
                       "Fecha": "2026-08-07T18:00:00",
                       "Descripcion": "Rollito de canela",
                       "Importe": 3.00
+                    },
+                    {
+                      "Id": 11024,
+                      "Fecha": "2026-08-12T18:15:00",
+                      "Descripcion": "3 cañitas de Carballino",
+                      "Importe": 6.60
+                    },
+                    {
+                      "Id": 11026,
+                      "Fecha": "2026-08-12T18:15:00",
+                      "Descripcion": "Croisant normal",
+                      "Importe": 1.50
+                    },
+                    {
+                      "Id": 11027,
+                      "Fecha": "2026-08-12T18:15:00",
+                      "Descripcion": "Croisant normal",
+                      "Importe": 1.50
+                    },
+                    {
+                      "Id": 11029,
+                      "Fecha": "2026-08-13T18:30:00",
+                      "Descripcion": "tarta de queso",
+                      "Importe": 2.00
                     }
                   ]
                 },
@@ -10186,7 +10294,7 @@
               "Id": 1,
               "Nombre": "Bebidas",
               "Orden": 80,
-              "Total": 42.67,
+              "Total": 44.36,
               "Productos": [
                 {
                   "Id": 3,
@@ -10264,7 +10372,7 @@
                 {
                   "Id": 5,
                   "Nombre": "Bebida vegetal",
-                  "Total": 21.50,
+                  "Total": 23.19,
                   "Tickets": [
                     {
                       "Id": 9744,
@@ -10349,6 +10457,12 @@
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "BEB ALIVE SUAVE",
                       "Importe": 1.47
+                    },
+                    {
+                      "Id": 11038,
+                      "Fecha": "2026-08-13T20:17:18",
+                      "Descripcion": "ECO BEBIDA ALMENDRA",
+                      "Importe": 1.69
                     }
                   ]
                 },
@@ -10628,13 +10742,13 @@
           "Id": 4,
           "Nombre": "Hogar y limpieza",
           "Orden": 20,
-          "Total": 45.16,
+          "Total": 47.28,
           "Tipos": [
             {
               "Id": 5,
               "Nombre": "Droguería hogar",
               "Orden": 70,
-              "Total": 32.14,
+              "Total": 34.26,
               "Productos": [
                 {
                   "Id": 9146,
@@ -10843,6 +10957,19 @@
                       "Fecha": "2026-07-22T14:19:11",
                       "Descripcion": "LIMPIAHOGAR LIMO",
                       "Importe": 2.59
+                    }
+                  ]
+                },
+                {
+                  "Id": 9165,
+                  "Nombre": "Papel de cocina",
+                  "Total": 2.12,
+                  "Tickets": [
+                    {
+                      "Id": 11039,
+                      "Fecha": "2026-08-13T20:17:18",
+                      "Descripcion": "PAPEL COCINA COMPACTO",
+                      "Importe": 2.12
                     }
                   ]
                 },
@@ -11167,13 +11294,13 @@
           "Id": 6,
           "Nombre": "Ocio y cultura",
           "Orden": 60,
-          "Total": 40.23,
+          "Total": 44.53,
           "Tipos": [
             {
               "Id": 37,
               "Nombre": "Cafetería",
               "Orden": 37,
-              "Total": 37.23,
+              "Total": 41.53,
               "Productos": [
                 {
                   "Id": 71,
@@ -11239,7 +11366,7 @@
                 {
                   "Id": 70,
                   "Nombre": "Café con l. vegetal",
-                  "Total": 11.20,
+                  "Total": 15.50,
                   "Tickets": [
                     {
                       "Id": 9834,
@@ -11288,6 +11415,12 @@
                       "Fecha": "2026-07-23T18:30:00",
                       "Descripcion": "Café con leche",
                       "Importe": 1.40
+                    },
+                    {
+                      "Id": 11028,
+                      "Fecha": "2026-08-13T18:30:00",
+                      "Descripcion": "3 Cafés",
+                      "Importe": 4.30
                     }
                   ]
                 },
