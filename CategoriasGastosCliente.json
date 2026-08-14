@@ -4464,7 +4464,7 @@
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 677.77,
+          "Total": 694.59,
           "Tipos": [
             {
               "Id": 10,
@@ -4545,6 +4545,51 @@
                       "Fecha": "2026-07-10T20:08:58",
                       "Descripcion": "CHOCOLATE NEGRO",
                       "Importe": 3.90
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4047,
+              "Nombre": "Helados",
+              "Orden": 12,
+              "Total": 16.82,
+              "Productos": [
+                {
+                  "Id": 5075,
+                  "Nombre": "Helados",
+                  "Total": 16.82,
+                  "Tickets": [
+                    {
+                      "Id": 5640,
+                      "Fecha": "2026-06-23T13:15:00",
+                      "Descripcion": "Conos chocolate X 6",
+                      "Importe": 4.99
+                    },
+                    {
+                      "Id": 5845,
+                      "Fecha": "2026-07-03T08:17:40",
+                      "Descripcion": "MAGNUM MINI CLAS",
+                      "Importe": 2.84
+                    },
+                    {
+                      "Id": 5846,
+                      "Fecha": "2026-07-03T08:17:40",
+                      "Descripcion": "TARRINA OPLATANO",
+                      "Importe": 2.59
+                    },
+                    {
+                      "Id": 5810,
+                      "Fecha": "2026-07-03T19:10:00",
+                      "Descripcion": "Cono helado 1 bola",
+                      "Importe": 3.20
+                    },
+                    {
+                      "Id": 5811,
+                      "Fecha": "2026-07-03T19:10:00",
+                      "Descripcion": "Cono helado 1 bola",
+                      "Importe": 3.20
                     }
                   ]
                 }
@@ -7071,7 +7116,7 @@
           "Id": 4,
           "Nombre": "Hogar y limpieza",
           "Orden": 20,
-          "Total": 40.37,
+          "Total": 23.55,
           "Tipos": [
             {
               "Id": 5,
@@ -7335,51 +7380,6 @@
                       "Fecha": "2026-07-01T21:03:04",
                       "Descripcion": "PAPEL COCINA",
                       "Importe": 2.35
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4040,
-              "Nombre": "Plantas y jardinería",
-              "Orden": 4040,
-              "Total": 16.82,
-              "Productos": [
-                {
-                  "Id": 5075,
-                  "Nombre": "Helados",
-                  "Total": 16.82,
-                  "Tickets": [
-                    {
-                      "Id": 5640,
-                      "Fecha": "2026-06-23T13:15:00",
-                      "Descripcion": "Conos chocolate X 6",
-                      "Importe": 4.99
-                    },
-                    {
-                      "Id": 5845,
-                      "Fecha": "2026-07-03T08:17:40",
-                      "Descripcion": "MAGNUM MINI CLAS",
-                      "Importe": 2.84
-                    },
-                    {
-                      "Id": 5846,
-                      "Fecha": "2026-07-03T08:17:40",
-                      "Descripcion": "TARRINA OPLATANO",
-                      "Importe": 2.59
-                    },
-                    {
-                      "Id": 5810,
-                      "Fecha": "2026-07-03T19:10:00",
-                      "Descripcion": "Cono helado 1 bola",
-                      "Importe": 3.20
-                    },
-                    {
-                      "Id": 5811,
-                      "Fecha": "2026-07-03T19:10:00",
-                      "Descripcion": "Cono helado 1 bola",
-                      "Importe": 3.20
                     }
                   ]
                 }
@@ -8466,7 +8466,7 @@
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 546.36,
+          "Total": 549.35,
           "Tipos": [
             {
               "Id": 10,
@@ -8596,6 +8596,27 @@
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "PEPITAS CHOCOLAT",
                       "Importe": 1.89
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4047,
+              "Nombre": "Helados",
+              "Orden": 12,
+              "Total": 2.99,
+              "Productos": [
+                {
+                  "Id": 5075,
+                  "Nombre": "Helados",
+                  "Total": 2.99,
+                  "Tickets": [
+                    {
+                      "Id": 9855,
+                      "Fecha": "2026-07-27T21:35:55",
+                      "Descripcion": "MAGNUM MINI CLAS",
+                      "Importe": 2.99
                     }
                   ]
                 }
@@ -10766,7 +10787,7 @@
           "Id": 4,
           "Nombre": "Hogar y limpieza",
           "Orden": 20,
-          "Total": 37.25,
+          "Total": 34.26,
           "Tipos": [
             {
               "Id": 5,
@@ -11026,27 +11047,6 @@
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "SUAVIZANTE VERNE",
                       "Importe": 2.90
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4040,
-              "Nombre": "Plantas y jardinería",
-              "Orden": 4040,
-              "Total": 2.99,
-              "Productos": [
-                {
-                  "Id": 5075,
-                  "Nombre": "Helados",
-                  "Total": 2.99,
-                  "Tickets": [
-                    {
-                      "Id": 9855,
-                      "Fecha": "2026-07-27T21:35:55",
-                      "Descripcion": "MAGNUM MINI CLAS",
-                      "Importe": 2.99
                     }
                   ]
                 }
