@@ -4,7 +4,7 @@
       "IdPeriodo": 2,
       "Nombre": "mayo - junio",
       "Desde": "2026-05-20T00:00:00",
-      "Hasta": "2026-06-19T00:00:00",
+      "Hasta": "2026-06-20T00:00:00",
       "Presupuesto": 2445.91,
       "Categorias": [
         {
@@ -4456,15 +4456,15 @@
     {
       "IdPeriodo": 3,
       "Nombre": "junio - julio",
-      "Desde": "2026-06-20T00:00:00",
-      "Hasta": "2026-07-19T00:00:00",
+      "Desde": "2026-06-21T00:00:00",
+      "Hasta": "2026-07-20T00:00:00",
       "Presupuesto": 2574.30,
       "Categorias": [
         {
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 699.59,
+          "Total": 737.92,
           "Tipos": [
             {
               "Id": 10,
@@ -4503,12 +4503,12 @@
               "Id": 12,
               "Nombre": "Chocolate",
               "Orden": 12,
-              "Total": 15.95,
+              "Total": 18.74,
               "Productos": [
                 {
                   "Id": 14,
                   "Nombre": "Chocolate",
-                  "Total": 15.95,
+                  "Total": 18.74,
                   "Tickets": [
                     {
                       "Id": 5685,
@@ -4545,6 +4545,12 @@
                       "Fecha": "2026-07-10T20:08:58",
                       "Descripcion": "CHOCOLATE NEGRO",
                       "Importe": 3.90
+                    },
+                    {
+                      "Id": 9745,
+                      "Fecha": "2026-07-20T14:06:24",
+                      "Descripcion": "CHOCOLATE NEGRO 80%",
+                      "Importe": 2.79
                     }
                   ]
                 }
@@ -4599,7 +4605,7 @@
               "Id": 13,
               "Nombre": "Conservas",
               "Orden": 13,
-              "Total": 41.49,
+              "Total": 43.75,
               "Productos": [
                 {
                   "Id": 75,
@@ -4739,6 +4745,19 @@
                   ]
                 },
                 {
+                  "Id": 7146,
+                  "Nombre": "Lentejas cocidas",
+                  "Total": 0.87,
+                  "Tickets": [
+                    {
+                      "Id": 7742,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "LENTEJAS COCIDAS",
+                      "Importe": 0.87
+                    }
+                  ]
+                },
+                {
                   "Id": 86,
                   "Nombre": "Mejillones en escabeche",
                   "Total": 4.47,
@@ -4817,7 +4836,7 @@
                 {
                   "Id": 47,
                   "Nombre": "Tomate en lata",
-                  "Total": 3.38,
+                  "Total": 4.77,
                   "Tickets": [
                     {
                       "Id": 5647,
@@ -4836,6 +4855,12 @@
                       "Fecha": "2026-07-11T20:07:00",
                       "Descripcion": "TOMATE TRITURADO",
                       "Importe": 1.00
+                    },
+                    {
+                      "Id": 7744,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "TOMATE TRIT. 800",
+                      "Importe": 1.39
                     }
                   ]
                 }
@@ -4896,7 +4921,7 @@
               "Id": 17,
               "Nombre": "Lácteos",
               "Orden": 17,
-              "Total": 65.97,
+              "Total": 77.31,
               "Productos": [
                 {
                   "Id": 33,
@@ -4957,7 +4982,7 @@
                 {
                   "Id": 42,
                   "Nombre": "Queso cocinar",
-                  "Total": 19.91,
+                  "Total": 23.85,
                   "Tickets": [
                     {
                       "Id": 5666,
@@ -5012,13 +5037,25 @@
                       "Fecha": "2026-07-10T13:39:00",
                       "Descripcion": "Queso Gorgonzola",
                       "Importe": 2.06
+                    },
+                    {
+                      "Id": 9746,
+                      "Fecha": "2026-07-20T14:06:24",
+                      "Descripcion": "QUESO FETA AOP",
+                      "Importe": 2.79
+                    },
+                    {
+                      "Id": 9748,
+                      "Fecha": "2026-07-20T14:06:24",
+                      "Descripcion": "QUESO FRSC.GRANULADO,2",
+                      "Importe": 1.15
                     }
                   ]
                 },
                 {
                   "Id": 78,
                   "Nombre": "Queso en lonchas",
-                  "Total": 8.70,
+                  "Total": 11.40,
                   "Tickets": [
                     {
                       "Id": 5747,
@@ -5073,6 +5110,18 @@
                       "Fecha": "2026-07-18T21:00:00",
                       "Descripcion": "MOZZARELLA FRESCA",
                       "Importe": 0.90
+                    },
+                    {
+                      "Id": 7745,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "MOZZARELLA FRESC",
+                      "Importe": 1.35
+                    },
+                    {
+                      "Id": 7746,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "MOZZARELLA FRESC",
+                      "Importe": 1.35
                     }
                   ]
                 },
@@ -5104,7 +5153,7 @@
                 {
                   "Id": 53,
                   "Nombre": "Yogur griego",
-                  "Total": 16.63,
+                  "Total": 18.78,
                   "Tickets": [
                     {
                       "Id": 5773,
@@ -5153,13 +5202,19 @@
                       "Fecha": "2026-07-17T20:24:00",
                       "Descripcion": "GRIEGO NATURAL",
                       "Importe": 2.20
+                    },
+                    {
+                      "Id": 7747,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "Y.GRIEGO NATURAL",
+                      "Importe": 2.15
                     }
                   ]
                 },
                 {
                   "Id": 5112,
                   "Nombre": "Yogur soja",
-                  "Total": 5.28,
+                  "Total": 7.83,
                   "Tickets": [
                     {
                       "Id": 5665,
@@ -5172,6 +5227,12 @@
                       "Fecha": "2026-06-30T20:24:37",
                       "Descripcion": "POSTRE ALPRO",
                       "Importe": 2.29
+                    },
+                    {
+                      "Id": 7754,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "COCO NATUR",
+                      "Importe": 2.55
                     }
                   ]
                 }
@@ -5384,7 +5445,7 @@
               "Id": 6,
               "Nombre": "Fruta y verdura",
               "Orden": 30,
-              "Total": 169.82,
+              "Total": 174.96,
               "Productos": [
                 {
                   "Id": 74,
@@ -5495,13 +5556,19 @@
                 {
                   "Id": 56,
                   "Nombre": "Berenjenas",
-                  "Total": 2.98,
+                  "Total": 5.23,
                   "Tickets": [
                     {
                       "Id": 5674,
                       "Fecha": "2026-06-20T20:05:58",
                       "Descripcion": "BERENJENA",
                       "Importe": 2.98
+                    },
+                    {
+                      "Id": 7750,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "BERENJENA MALLA",
+                      "Importe": 2.25
                     }
                   ]
                 },
@@ -5855,7 +5922,7 @@
                 {
                   "Id": 5092,
                   "Nombre": "Mango",
-                  "Total": 7.17,
+                  "Total": 10.06,
                   "Tickets": [
                     {
                       "Id": 5710,
@@ -5886,6 +5953,12 @@
                       "Fecha": "2026-07-18T21:00:00",
                       "Descripcion": "MANGO",
                       "Importe": 1.94
+                    },
+                    {
+                      "Id": 9747,
+                      "Fecha": "2026-07-20T14:06:24",
+                      "Descripcion": "MANGO PACK 2UDS",
+                      "Importe": 2.89
                     }
                   ]
                 },
@@ -6159,7 +6232,7 @@
               "Id": 30,
               "Nombre": "Frutos secos",
               "Orden": 30,
-              "Total": 25.53,
+              "Total": 27.91,
               "Productos": [
                 {
                   "Id": 8156,
@@ -6258,6 +6331,19 @@
                   ]
                 },
                 {
+                  "Id": 7147,
+                  "Nombre": "Nueces mondadas",
+                  "Total": 2.38,
+                  "Tickets": [
+                    {
+                      "Id": 7748,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "NUEZ MONDADA",
+                      "Importe": 2.38
+                    }
+                  ]
+                },
+                {
                   "Id": 5139,
                   "Nombre": "Pistachos",
                   "Total": 6.97,
@@ -6282,12 +6368,12 @@
               "Id": 31,
               "Nombre": "Pasteles & Bollería",
               "Orden": 31,
-              "Total": 62.58,
+              "Total": 66.48,
               "Productos": [
                 {
                   "Id": 60,
                   "Nombre": "Bollería",
-                  "Total": 7.50,
+                  "Total": 11.40,
                   "Tickets": [
                     {
                       "Id": 5613,
@@ -6318,6 +6404,24 @@
                       "Fecha": "2026-06-24T11:26:00",
                       "Descripcion": "Croisant normal",
                       "Importe": 1.50
+                    },
+                    {
+                      "Id": 9833,
+                      "Fecha": "2026-07-20T18:30:00",
+                      "Descripcion": "Croisant",
+                      "Importe": 1.50
+                    },
+                    {
+                      "Id": 9838,
+                      "Fecha": "2026-07-20T18:30:00",
+                      "Descripcion": "Pastel cabello de angel",
+                      "Importe": 1.20
+                    },
+                    {
+                      "Id": 9839,
+                      "Fecha": "2026-07-20T18:30:00",
+                      "Descripcion": "Pastel cabello de angel",
+                      "Importe": 1.20
                     }
                   ]
                 },
@@ -6664,7 +6768,7 @@
               "Id": 7,
               "Nombre": "Charcutería",
               "Orden": 50,
-              "Total": 21.87,
+              "Total": 24.15,
               "Productos": [
                 {
                   "Id": 76,
@@ -6688,7 +6792,7 @@
                 {
                   "Id": 29,
                   "Nombre": "Jamón cocido",
-                  "Total": 5.04,
+                  "Total": 7.32,
                   "Tickets": [
                     {
                       "Id": 5689,
@@ -6701,6 +6805,12 @@
                       "Fecha": "2026-07-04T19:59:29",
                       "Descripcion": "JAMON ASADO EXTR",
                       "Importe": 2.52
+                    },
+                    {
+                      "Id": 7751,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "JAMON ASADO EXTR",
+                      "Importe": 2.28
                     }
                   ]
                 },
@@ -6759,12 +6869,12 @@
               "Id": 1,
               "Nombre": "Bebidas",
               "Orden": 80,
-              "Total": 52.45,
+              "Total": 57.17,
               "Productos": [
                 {
                   "Id": 3,
                   "Nombre": "Agua",
-                  "Total": 16.51,
+                  "Total": 19.54,
                   "Tickets": [
                     {
                       "Id": 5645,
@@ -6813,13 +6923,25 @@
                       "Fecha": "2026-07-17T13:37:00",
                       "Descripcion": "Mondariz 1L",
                       "Importe": 0.68
+                    },
+                    {
+                      "Id": 9742,
+                      "Fecha": "2026-07-20T14:06:24",
+                      "Descripcion": "AGUA FONT VELLA 1,5L.",
+                      "Importe": 0.69
+                    },
+                    {
+                      "Id": 7741,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "AGUA MINERAL AUC",
+                      "Importe": 2.34
                     }
                   ]
                 },
                 {
                   "Id": 5,
                   "Nombre": "Bebida vegetal",
-                  "Total": 15.43,
+                  "Total": 17.12,
                   "Tickets": [
                     {
                       "Id": 5649,
@@ -6878,6 +7000,12 @@
                     {
                       "Id": 8742,
                       "Fecha": "2026-07-13T20:25:23",
+                      "Descripcion": "ECO BEBIDA ALMENDRA",
+                      "Importe": 1.69
+                    },
+                    {
+                      "Id": 9744,
+                      "Fecha": "2026-07-20T14:06:24",
                       "Descripcion": "ECO BEBIDA ALMENDRA",
                       "Importe": 1.69
                     }
@@ -7040,12 +7168,12 @@
               "Id": 4043,
               "Nombre": "Pasta y cereales",
               "Orden": 4043,
-              "Total": 9.77,
+              "Total": 13.29,
               "Productos": [
                 {
                   "Id": 2,
                   "Nombre": "Copos de cereales",
-                  "Total": 4.44,
+                  "Total": 6.13,
                   "Tickets": [
                     {
                       "Id": 5764,
@@ -7058,6 +7186,12 @@
                       "Fecha": "2026-06-29T21:01:00",
                       "Descripcion": "AQUADEVA P-6X1,5L",
                       "Importe": 1.62
+                    },
+                    {
+                      "Id": 7752,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "CEREAL COPOS SUA",
+                      "Importe": 1.69
                     }
                   ]
                 },
@@ -7077,7 +7211,7 @@
                 {
                   "Id": 6145,
                   "Nombre": "Semillas de chía",
-                  "Total": 3.44,
+                  "Total": 5.27,
                   "Tickets": [
                     {
                       "Id": 6734,
@@ -7090,6 +7224,12 @@
                       "Fecha": "2026-07-18T21:00:00",
                       "Descripcion": "CHÍA",
                       "Importe": 1.45
+                    },
+                    {
+                      "Id": 7749,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "SEMILLAS DE CHIA",
+                      "Importe": 1.83
                     }
                   ]
                 }
@@ -7122,18 +7262,18 @@
           "Id": 4,
           "Nombre": "Hogar y limpieza",
           "Orden": 20,
-          "Total": 23.55,
+          "Total": 25.67,
           "Tipos": [
             {
               "Id": 5,
               "Nombre": "Droguería hogar",
               "Orden": 70,
-              "Total": 23.55,
+              "Total": 25.67,
               "Productos": [
                 {
                   "Id": 6,
                   "Nombre": "Bolsa supermercado",
-                  "Total": 4.14,
+                  "Total": 4.26,
                   "Tickets": [
                     {
                       "Id": 5644,
@@ -7302,6 +7442,12 @@
                       "Fecha": "2026-07-17T20:24:00",
                       "Descripcion": "BOLSA PLASTICO",
                       "Importe": 0.15
+                    },
+                    {
+                      "Id": 7743,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "BOLSA 50X60CM",
+                      "Importe": 0.12
                     }
                   ]
                 },
@@ -7379,13 +7525,19 @@
                 {
                   "Id": 46,
                   "Nombre": "Servilletas de cocina",
-                  "Total": 2.35,
+                  "Total": 4.35,
                   "Tickets": [
                     {
                       "Id": 5780,
                       "Fecha": "2026-07-01T21:03:04",
                       "Descripcion": "PAPEL COCINA",
                       "Importe": 2.35
+                    },
+                    {
+                      "Id": 7753,
+                      "Fecha": "2026-07-20T21:55:58",
+                      "Descripcion": "PAPEL COCINA",
+                      "Importe": 2.00
                     }
                   ]
                 }
@@ -7669,13 +7821,13 @@
           "Id": 5,
           "Nombre": "Mascotas",
           "Orden": 50,
-          "Total": 44.61,
+          "Total": 23.13,
           "Tipos": [
             {
               "Id": 18,
               "Nombre": "Mascota",
               "Orden": 18,
-              "Total": 44.61,
+              "Total": 23.13,
               "Productos": [
                 {
                   "Id": 5108,
@@ -7740,19 +7892,6 @@
                       "Importe": 14.15
                     }
                   ]
-                },
-                {
-                  "Id": 9153,
-                  "Nombre": "Medicinas",
-                  "Total": 21.48,
-                  "Tickets": [
-                    {
-                      "Id": 10903,
-                      "Fecha": "2026-07-21T18:30:00",
-                      "Descripcion": "Antiparasitario",
-                      "Importe": 21.48
-                    }
-                  ]
                 }
               ]
             }
@@ -7762,7 +7901,7 @@
           "Id": 6,
           "Nombre": "Ocio y cultura",
           "Orden": 60,
-          "Total": 95.87,
+          "Total": 101.73,
           "Tipos": [
             {
               "Id": 29,
@@ -7789,12 +7928,12 @@
               "Id": 37,
               "Nombre": "Cafetería",
               "Orden": 37,
-              "Total": 56.58,
+              "Total": 62.44,
               "Productos": [
                 {
                   "Id": 71,
                   "Nombre": "Agua con gas",
-                  "Total": 10.33,
+                  "Total": 10.59,
                   "Tickets": [
                     {
                       "Id": 5650,
@@ -7867,6 +8006,12 @@
                       "Fecha": "2026-07-18T21:00:00",
                       "Descripcion": "AGUA CON GAS",
                       "Importe": 1.55
+                    },
+                    {
+                      "Id": 9743,
+                      "Fecha": "2026-07-20T14:06:24",
+                      "Descripcion": "AGUA MINERAL NAT 1,5 L",
+                      "Importe": 0.26
                     }
                   ]
                 },
@@ -7898,7 +8043,7 @@
                 {
                   "Id": 70,
                   "Nombre": "Café con l. vegetal",
-                  "Total": 18.50,
+                  "Total": 24.10,
                   "Tickets": [
                     {
                       "Id": 5630,
@@ -7971,6 +8116,30 @@
                       "Fecha": "2026-07-19T19:00:00",
                       "Descripcion": "Café con leche",
                       "Importe": 1.70
+                    },
+                    {
+                      "Id": 9834,
+                      "Fecha": "2026-07-20T18:30:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
+                    },
+                    {
+                      "Id": 9835,
+                      "Fecha": "2026-07-20T18:30:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
+                    },
+                    {
+                      "Id": 9836,
+                      "Fecha": "2026-07-20T18:30:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
+                    },
+                    {
+                      "Id": 9837,
+                      "Fecha": "2026-07-20T18:30:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
                     }
                   ]
                 },
@@ -8476,15 +8645,15 @@
     {
       "IdPeriodo": 4,
       "Nombre": "julio - agosto",
-      "Desde": "2026-07-20T00:00:00",
-      "Hasta": "2026-08-19T00:00:00",
+      "Desde": "2026-07-21T00:00:00",
+      "Hasta": "2026-07-20T00:00:00",
       "Presupuesto": 2445.91,
       "Categorias": [
         {
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 659.47,
+          "Total": 634.51,
           "Tipos": [
             {
               "Id": 10,
@@ -8548,19 +8717,13 @@
               "Id": 12,
               "Nombre": "Chocolate",
               "Orden": 12,
-              "Total": 24.96,
+              "Total": 22.17,
               "Productos": [
                 {
                   "Id": 14,
                   "Nombre": "Chocolate",
-                  "Total": 24.96,
+                  "Total": 22.17,
                   "Tickets": [
-                    {
-                      "Id": 9745,
-                      "Fecha": "2026-07-20T14:06:24",
-                      "Descripcion": "CHOCOLATE NEGRO 80%",
-                      "Importe": 2.79
-                    },
                     {
                       "Id": 9798,
                       "Fecha": "2026-07-22T14:19:11",
@@ -8656,7 +8819,7 @@
               "Id": 13,
               "Nombre": "Conservas",
               "Orden": 13,
-              "Total": 32.57,
+              "Total": 29.41,
               "Productos": [
                 {
                   "Id": 5076,
@@ -8745,7 +8908,7 @@
                 {
                   "Id": 5158,
                   "Nombre": "Judía plana en conserva",
-                  "Total": 3.00,
+                  "Total": 2.10,
                   "Tickets": [
                     {
                       "Id": 9793,
@@ -8757,7 +8920,7 @@
                       "Id": 9828,
                       "Fecha": "2026-07-30T20:41:00",
                       "Descripcion": "JUDIA VERDE FCO.",
-                      "Importe": 1.95
+                      "Importe": 1.05
                     }
                   ]
                 },
@@ -8777,14 +8940,8 @@
                 {
                   "Id": 7146,
                   "Nombre": "Lentejas cocidas",
-                  "Total": 1.74,
+                  "Total": 0.87,
                   "Tickets": [
-                    {
-                      "Id": 7742,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "LENTEJAS COCIDAS",
-                      "Importe": 0.87
-                    },
                     {
                       "Id": 9848,
                       "Fecha": "2026-07-27T21:35:55",
@@ -8847,14 +9004,8 @@
                 {
                   "Id": 47,
                   "Nombre": "Tomate en lata",
-                  "Total": 2.86,
+                  "Total": 1.47,
                   "Tickets": [
-                    {
-                      "Id": 7744,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "TOMATE TRIT. 800",
-                      "Importe": 1.39
-                    },
                     {
                       "Id": 10860,
                       "Fecha": "2026-08-04T21:30:00",
@@ -8926,7 +9077,7 @@
               "Id": 17,
               "Nombre": "Lácteos",
               "Orden": 17,
-              "Total": 97.64,
+              "Total": 89.56,
               "Productos": [
                 {
                   "Id": 33,
@@ -9006,20 +9157,8 @@
                 {
                   "Id": 42,
                   "Nombre": "Queso cocinar",
-                  "Total": 34.70,
+                  "Total": 30.76,
                   "Tickets": [
-                    {
-                      "Id": 9746,
-                      "Fecha": "2026-07-20T14:06:24",
-                      "Descripcion": "QUESO FETA AOP",
-                      "Importe": 2.79
-                    },
-                    {
-                      "Id": 9748,
-                      "Fecha": "2026-07-20T14:06:24",
-                      "Descripcion": "QUESO FRSC.GRANULADO,2",
-                      "Importe": 1.15
-                    },
                     {
                       "Id": 9796,
                       "Fecha": "2026-07-22T14:19:11",
@@ -9115,20 +9254,8 @@
                 {
                   "Id": 78,
                   "Nombre": "Queso en lonchas",
-                  "Total": 7.20,
+                  "Total": 5.40,
                   "Tickets": [
-                    {
-                      "Id": 7745,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "MOZZARELLA FRESC",
-                      "Importe": 1.35
-                    },
-                    {
-                      "Id": 7746,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "MOZZARELLA FRESC",
-                      "Importe": 1.35
-                    },
                     {
                       "Id": 10812,
                       "Fecha": "2026-07-28T19:50:00",
@@ -9158,13 +9285,19 @@
                       "Fecha": "2026-08-14T20:12:00",
                       "Descripcion": "MOZZARELLA FRESCA",
                       "Importe": 0.90
+                    },
+                    {
+                      "Id": 12911,
+                      "Fecha": "2026-08-18T21:01:00",
+                      "Descripcion": "MOZZARELLA FRESCA",
+                      "Importe": 0.90
                     }
                   ]
                 },
                 {
                   "Id": 43,
                   "Nombre": "Queso untar",
-                  "Total": 8.86,
+                  "Total": 11.22,
                   "Tickets": [
                     {
                       "Id": 9811,
@@ -9189,6 +9322,12 @@
                       "Fecha": "2026-08-17T20:29:00",
                       "Descripcion": "QUESO LONCHAS TIERNO",
                       "Importe": 2.39
+                    },
+                    {
+                      "Id": 12912,
+                      "Fecha": "2026-08-18T21:01:00",
+                      "Descripcion": "QUESO LONCHAS TIERNO",
+                      "Importe": 2.36
                     }
                   ]
                 },
@@ -9238,14 +9377,8 @@
                 {
                   "Id": 53,
                   "Nombre": "Yogur griego",
-                  "Total": 13.05,
+                  "Total": 10.90,
                   "Tickets": [
-                    {
-                      "Id": 7747,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "Y.GRIEGO NATURAL",
-                      "Importe": 2.15
-                    },
                     {
                       "Id": 9792,
                       "Fecha": "2026-07-22T14:19:11",
@@ -9281,14 +9414,8 @@
                 {
                   "Id": 5112,
                   "Nombre": "Yogur soja",
-                  "Total": 9.70,
+                  "Total": 7.15,
                   "Tickets": [
-                    {
-                      "Id": 7754,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "COCO NATUR",
-                      "Importe": 2.55
-                    },
                     {
                       "Id": 10785,
                       "Fecha": "2026-07-21T21:23:00",
@@ -9412,7 +9539,7 @@
               "Id": 6,
               "Nombre": "Fruta y verdura",
               "Orden": 30,
-              "Total": 131.16,
+              "Total": 126.88,
               "Productos": [
                 {
                   "Id": 74,
@@ -9474,14 +9601,8 @@
                 {
                   "Id": 56,
                   "Nombre": "Berenjenas",
-                  "Total": 9.03,
+                  "Total": 6.78,
                   "Tickets": [
-                    {
-                      "Id": 7750,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "BERENJENA MALLA",
-                      "Importe": 2.25
-                    },
                     {
                       "Id": 9803,
                       "Fecha": "2026-07-22T14:19:11",
@@ -9517,7 +9638,7 @@
                 {
                   "Id": 11,
                   "Nombre": "Calabacín",
-                  "Total": 8.19,
+                  "Total": 9.05,
                   "Tickets": [
                     {
                       "Id": 9801,
@@ -9554,6 +9675,12 @@
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "CALABACIN GRANEL",
                       "Importe": 1.24
+                    },
+                    {
+                      "Id": 12914,
+                      "Fecha": "2026-08-18T21:01:00",
+                      "Descripcion": "CALABACIN VERDE",
+                      "Importe": 0.86
                     }
                   ]
                 },
@@ -9821,14 +9948,8 @@
                 {
                   "Id": 5092,
                   "Nombre": "Mango",
-                  "Total": 8.63,
+                  "Total": 5.74,
                   "Tickets": [
-                    {
-                      "Id": 9747,
-                      "Fecha": "2026-07-20T14:06:24",
-                      "Descripcion": "MANGO PACK 2UDS",
-                      "Importe": 2.89
-                    },
                     {
                       "Id": 7756,
                       "Fecha": "2026-07-24T20:23:00",
@@ -10068,7 +10189,7 @@
               "Id": 30,
               "Nombre": "Frutos secos",
               "Orden": 30,
-              "Total": 19.23,
+              "Total": 16.85,
               "Productos": [
                 {
                   "Id": 8156,
@@ -10144,14 +10265,8 @@
                 {
                   "Id": 7147,
                   "Nombre": "Nueces mondadas",
-                  "Total": 6.56,
+                  "Total": 4.18,
                   "Tickets": [
-                    {
-                      "Id": 7748,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "NUEZ MONDADA",
-                      "Importe": 2.38
-                    },
                     {
                       "Id": 9864,
                       "Fecha": "2026-07-27T21:35:55",
@@ -10172,7 +10287,7 @@
               "Id": 31,
               "Nombre": "Pasteles & Bollería",
               "Orden": 31,
-              "Total": 79.24,
+              "Total": 79.99,
               "Productos": [
                 {
                   "Id": 9147,
@@ -10190,26 +10305,8 @@
                 {
                   "Id": 60,
                   "Nombre": "Bollería",
-                  "Total": 36.60,
+                  "Total": 36.30,
                   "Tickets": [
-                    {
-                      "Id": 9833,
-                      "Fecha": "2026-07-20T18:30:00",
-                      "Descripcion": "Croisant",
-                      "Importe": 1.50
-                    },
-                    {
-                      "Id": 9838,
-                      "Fecha": "2026-07-20T18:30:00",
-                      "Descripcion": "Pastel cabello de angel",
-                      "Importe": 1.20
-                    },
-                    {
-                      "Id": 9839,
-                      "Fecha": "2026-07-20T18:30:00",
-                      "Descripcion": "Pastel cabello de angel",
-                      "Importe": 1.20
-                    },
                     {
                       "Id": 10907,
                       "Fecha": "2026-07-22T18:32:00",
@@ -10245,6 +10342,24 @@
                       "Fecha": "2026-07-27T12:45:00",
                       "Descripcion": "3 cañitas de Carballino",
                       "Importe": 6.60
+                    },
+                    {
+                      "Id": 12925,
+                      "Fecha": "2026-07-29T18:30:00",
+                      "Descripcion": "Pastel cabello de angel",
+                      "Importe": 1.20
+                    },
+                    {
+                      "Id": 12926,
+                      "Fecha": "2026-07-29T18:30:00",
+                      "Descripcion": "Pastel cabello de angel",
+                      "Importe": 1.20
+                    },
+                    {
+                      "Id": 12927,
+                      "Fecha": "2026-07-29T18:30:00",
+                      "Descripcion": "Pastel cabello de angel",
+                      "Importe": 1.20
                     },
                     {
                       "Id": 9841,
@@ -10366,7 +10481,7 @@
                 {
                   "Id": 84,
                   "Nombre": "Panecillo integral",
-                  "Total": 7.15,
+                  "Total": 8.20,
                   "Tickets": [
                     {
                       "Id": 10869,
@@ -10397,6 +10512,12 @@
                       "Fecha": "2026-08-17T20:29:00",
                       "Descripcion": "PANEC. 100% INTEGRAL",
                       "Importe": 1.05
+                    },
+                    {
+                      "Id": 12913,
+                      "Fecha": "2026-08-18T21:01:00",
+                      "Descripcion": "PANEC. 100% INTEGRAL",
+                      "Importe": 1.05
                     }
                   ]
                 },
@@ -10425,12 +10546,12 @@
               "Id": 39,
               "Nombre": "Pescado congelado",
               "Orden": 39,
-              "Total": 13.09,
+              "Total": 18.59,
               "Productos": [
                 {
                   "Id": 1075,
                   "Nombre": "Merluza",
-                  "Total": 13.09,
+                  "Total": 18.59,
                   "Tickets": [
                     {
                       "Id": 9790,
@@ -10449,6 +10570,12 @@
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "V. MERLUZA AUCHAN",
                       "Importe": 3.55
+                    },
+                    {
+                      "Id": 12910,
+                      "Fecha": "2026-08-18T21:01:00",
+                      "Descripcion": "FILETE MERLUZA CABO",
+                      "Importe": 5.50
                     }
                   ]
                 }
@@ -10562,19 +10689,13 @@
               "Id": 7,
               "Nombre": "Charcutería",
               "Orden": 50,
-              "Total": 22.67,
+              "Total": 20.39,
               "Productos": [
                 {
                   "Id": 29,
                   "Nombre": "Jamón cocido",
-                  "Total": 20.37,
+                  "Total": 18.09,
                   "Tickets": [
-                    {
-                      "Id": 7751,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "JAMON ASADO EXTR",
-                      "Importe": 2.28
-                    },
                     {
                       "Id": 10818,
                       "Fecha": "2026-07-30T13:45:00",
@@ -10644,25 +10765,13 @@
               "Id": 1,
               "Nombre": "Bebidas",
               "Orden": 80,
-              "Total": 47.74,
+              "Total": 43.02,
               "Productos": [
                 {
                   "Id": 3,
                   "Nombre": "Agua",
-                  "Total": 13.65,
+                  "Total": 10.62,
                   "Tickets": [
-                    {
-                      "Id": 9742,
-                      "Fecha": "2026-07-20T14:06:24",
-                      "Descripcion": "AGUA FONT VELLA 1,5L.",
-                      "Importe": 0.69
-                    },
-                    {
-                      "Id": 7741,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "AGUA MINERAL AUC",
-                      "Importe": 2.34
-                    },
                     {
                       "Id": 9773,
                       "Fecha": "2026-07-22T14:19:11",
@@ -10722,14 +10831,8 @@
                 {
                   "Id": 5,
                   "Nombre": "Bebida vegetal",
-                  "Total": 26.57,
+                  "Total": 24.88,
                   "Tickets": [
-                    {
-                      "Id": 9744,
-                      "Fecha": "2026-07-20T14:06:24",
-                      "Descripcion": "ECO BEBIDA ALMENDRA",
-                      "Importe": 1.69
-                    },
                     {
                       "Id": 9774,
                       "Fecha": "2026-07-22T14:19:11",
@@ -10967,7 +11070,7 @@
               "Id": 4043,
               "Nombre": "Pasta y cereales",
               "Orden": 4043,
-              "Total": 24.56,
+              "Total": 21.04,
               "Productos": [
                 {
                   "Id": 8151,
@@ -10985,14 +11088,8 @@
                 {
                   "Id": 2,
                   "Nombre": "Copos de cereales",
-                  "Total": 6.62,
+                  "Total": 4.93,
                   "Tickets": [
-                    {
-                      "Id": 7752,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "CEREAL COPOS SUA",
-                      "Importe": 1.69
-                    },
                     {
                       "Id": 9767,
                       "Fecha": "2026-07-31T14:24:26",
@@ -11035,14 +11132,8 @@
                 {
                   "Id": 6145,
                   "Nombre": "Semillas de chía",
-                  "Total": 12.37,
+                  "Total": 10.54,
                   "Tickets": [
-                    {
-                      "Id": 7749,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "SEMILLAS DE CHIA",
-                      "Importe": 1.83
-                    },
                     {
                       "Id": 10799,
                       "Fecha": "2026-07-24T20:08:00",
@@ -11123,13 +11214,13 @@
           "Id": 4,
           "Nombre": "Hogar y limpieza",
           "Orden": 20,
-          "Total": 41.78,
+          "Total": 39.81,
           "Tipos": [
             {
               "Id": 5,
               "Nombre": "Droguería hogar",
               "Orden": 70,
-              "Total": 41.78,
+              "Total": 39.81,
               "Productos": [
                 {
                   "Id": 9146,
@@ -11147,14 +11238,8 @@
                 {
                   "Id": 6,
                   "Nombre": "Bolsa supermercado",
-                  "Total": 3.99,
+                  "Total": 4.02,
                   "Tickets": [
-                    {
-                      "Id": 7743,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "BOLSA 50X60CM",
-                      "Importe": 0.12
-                    },
                     {
                       "Id": 10784,
                       "Fecha": "2026-07-21T21:23:00",
@@ -11316,6 +11401,12 @@
                       "Fecha": "2026-08-17T20:29:00",
                       "Descripcion": "BOLSA PLASTICO",
                       "Importe": 0.15
+                    },
+                    {
+                      "Id": 12909,
+                      "Fecha": "2026-08-18T21:01:00",
+                      "Descripcion": "BOLSA PLASTICO",
+                      "Importe": 0.15
                     }
                   ]
                 },
@@ -11411,19 +11502,6 @@
                   ]
                 },
                 {
-                  "Id": 46,
-                  "Nombre": "Servilletas de cocina",
-                  "Total": 2.00,
-                  "Tickets": [
-                    {
-                      "Id": 7753,
-                      "Fecha": "2026-07-20T21:55:58",
-                      "Descripcion": "PAPEL COCINA",
-                      "Importe": 2.00
-                    }
-                  ]
-                },
-                {
                   "Id": 5110,
                   "Nombre": "Suavizante",
                   "Total": 5.80,
@@ -11450,7 +11528,7 @@
           "Id": 3,
           "Nombre": "Higiene y cuidado personal",
           "Orden": 40,
-          "Total": 98.86,
+          "Total": 107.70,
           "Tipos": [
             {
               "Id": 24,
@@ -11496,12 +11574,12 @@
               "Id": 4045,
               "Nombre": "Farmacia",
               "Orden": 4045,
-              "Total": 38.97,
+              "Total": 47.81,
               "Productos": [
                 {
                   "Id": 5126,
                   "Nombre": "Medicinas",
-                  "Total": 38.97,
+                  "Total": 47.81,
                   "Tickets": [
                     {
                       "Id": 7715,
@@ -11526,6 +11604,12 @@
                       "Fecha": "2026-07-21T13:18:00",
                       "Descripcion": "Inreq",
                       "Importe": -10.96
+                    },
+                    {
+                      "Id": 12922,
+                      "Fecha": "2026-07-28T15:00:00",
+                      "Descripcion": "?",
+                      "Importe": 8.84
                     },
                     {
                       "Id": 10917,
@@ -11581,7 +11665,7 @@
                     {
                       "Id": 11023,
                       "Fecha": "2026-09-01T00:00:00",
-                      "Descripcion": "Peluquería",
+                      "Descripcion": "Peluquería presupuestado",
                       "Importe": 52.50
                     }
                   ]
@@ -11594,13 +11678,13 @@
           "Id": 5,
           "Nombre": "Mascotas",
           "Orden": 50,
-          "Total": 46.96,
+          "Total": 68.44,
           "Tipos": [
             {
               "Id": 18,
               "Nombre": "Mascota",
               "Orden": 18,
-              "Total": 46.96,
+              "Total": 68.44,
               "Productos": [
                 {
                   "Id": 5108,
@@ -11702,6 +11786,19 @@
                       "Importe": 1.20
                     }
                   ]
+                },
+                {
+                  "Id": 9153,
+                  "Nombre": "Medicinas",
+                  "Total": 21.48,
+                  "Tickets": [
+                    {
+                      "Id": 10903,
+                      "Fecha": "2026-07-21T18:30:00",
+                      "Descripcion": "Antiparasitario",
+                      "Importe": 21.48
+                    }
+                  ]
                 }
               ]
             }
@@ -11711,25 +11808,19 @@
           "Id": 6,
           "Nombre": "Ocio y cultura",
           "Orden": 60,
-          "Total": 47.33,
+          "Total": 52.97,
           "Tipos": [
             {
               "Id": 37,
               "Nombre": "Cafetería",
               "Orden": 37,
-              "Total": 44.33,
+              "Total": 49.97,
               "Productos": [
                 {
                   "Id": 71,
                   "Nombre": "Agua con gas",
-                  "Total": 4.03,
+                  "Total": 5.07,
                   "Tickets": [
-                    {
-                      "Id": 9743,
-                      "Fecha": "2026-07-20T14:06:24",
-                      "Descripcion": "AGUA MINERAL NAT 1,5 L",
-                      "Importe": 0.26
-                    },
                     {
                       "Id": 10794,
                       "Fecha": "2026-07-24T20:08:00",
@@ -11777,38 +11868,20 @@
                       "Fecha": "2026-08-06T20:11:43",
                       "Descripcion": "AGUA MINERAL NAT 1,5 L",
                       "Importe": 0.26
+                    },
+                    {
+                      "Id": 12917,
+                      "Fecha": "2026-08-18T20:16:00",
+                      "Descripcion": "Agua con gas",
+                      "Importe": 1.30
                     }
                   ]
                 },
                 {
                   "Id": 70,
                   "Nombre": "Café con l. vegetal",
-                  "Total": 18.30,
+                  "Total": 22.70,
                   "Tickets": [
-                    {
-                      "Id": 9834,
-                      "Fecha": "2026-07-20T18:30:00",
-                      "Descripcion": "Café con leche",
-                      "Importe": 1.40
-                    },
-                    {
-                      "Id": 9835,
-                      "Fecha": "2026-07-20T18:30:00",
-                      "Descripcion": "Café con leche",
-                      "Importe": 1.40
-                    },
-                    {
-                      "Id": 9836,
-                      "Fecha": "2026-07-20T18:30:00",
-                      "Descripcion": "Café con leche",
-                      "Importe": 1.40
-                    },
-                    {
-                      "Id": 9837,
-                      "Fecha": "2026-07-20T18:30:00",
-                      "Descripcion": "Café con leche",
-                      "Importe": 1.40
-                    },
                     {
                       "Id": 10905,
                       "Fecha": "2026-07-22T18:32:00",
@@ -11834,6 +11907,36 @@
                       "Importe": 1.40
                     },
                     {
+                      "Id": 12923,
+                      "Fecha": "2026-07-28T18:30:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
+                    },
+                    {
+                      "Id": 12924,
+                      "Fecha": "2026-07-28T18:30:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
+                    },
+                    {
+                      "Id": 12928,
+                      "Fecha": "2026-07-29T18:30:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
+                    },
+                    {
+                      "Id": 12929,
+                      "Fecha": "2026-07-29T18:30:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
+                    },
+                    {
+                      "Id": 12930,
+                      "Fecha": "2026-07-29T18:30:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
+                    },
+                    {
                       "Id": 11028,
                       "Fecha": "2026-08-13T18:30:00",
                       "Descripcion": "3 Cafés",
@@ -11850,6 +11953,18 @@
                       "Fecha": "2026-08-14T19:00:00",
                       "Descripcion": "Café con leche",
                       "Importe": 1.40
+                    },
+                    {
+                      "Id": 12918,
+                      "Fecha": "2026-08-18T20:16:00",
+                      "Descripcion": "Café soja mediano",
+                      "Importe": 1.50
+                    },
+                    {
+                      "Id": 12919,
+                      "Fecha": "2026-08-18T20:16:00",
+                      "Descripcion": "Café soja mediano",
+                      "Importe": 1.50
                     }
                   ]
                 },
@@ -11875,6 +11990,25 @@
                       "Fecha": "2026-07-27T14:09:00",
                       "Descripcion": "Hamburguesa completa",
                       "Importe": 5.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 11154,
+                  "Nombre": "Hielo",
+                  "Total": 0.20,
+                  "Tickets": [
+                    {
+                      "Id": 12920,
+                      "Fecha": "2026-08-18T20:16:00",
+                      "Descripcion": "Hielo",
+                      "Importe": 0.10
+                    },
+                    {
+                      "Id": 12921,
+                      "Fecha": "2026-08-18T20:16:00",
+                      "Descripcion": "Hielo",
+                      "Importe": 0.10
                     }
                   ]
                 },
@@ -11920,18 +12054,18 @@
           "Id": 2,
           "Nombre": "Bricolaje / Ferretería",
           "Orden": 70,
-          "Total": 5.10,
+          "Total": 7.35,
           "Tipos": [
             {
               "Id": 33,
               "Nombre": "Ferretería",
               "Orden": 33,
-              "Total": 5.10,
+              "Total": 7.35,
               "Productos": [
                 {
                   "Id": 62,
                   "Nombre": "Tornillería",
-                  "Total": 5.10,
+                  "Total": 7.35,
                   "Tickets": [
                     {
                       "Id": 11962,
@@ -11944,6 +12078,12 @@
                       "Fecha": "2026-08-17T19:34:00",
                       "Descripcion": "Cinta tapicero",
                       "Importe": 3.20
+                    },
+                    {
+                      "Id": 12916,
+                      "Fecha": "2026-08-18T14:36:00",
+                      "Descripcion": "Grapas tipo M12",
+                      "Importe": 2.25
                     }
                   ]
                 }
@@ -11971,7 +12111,7 @@
                     {
                       "Id": 11007,
                       "Fecha": "2026-09-01T00:00:00",
-                      "Descripcion": "Butano",
+                      "Descripcion": "Butano presupuestado",
                       "Importe": 15.39
                     }
                   ]
