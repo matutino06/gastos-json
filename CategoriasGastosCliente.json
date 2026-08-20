@@ -3445,198 +3445,6 @@
           ]
         },
         {
-          "Id": 3,
-          "Nombre": "Higiene y cuidado personal",
-          "Orden": 40,
-          "Total": 80.51,
-          "Tipos": [
-            {
-              "Id": 24,
-              "Nombre": "Droguería personal",
-              "Orden": 24,
-              "Total": 56.72,
-              "Productos": [
-                {
-                  "Id": 5119,
-                  "Nombre": "Barra de labios",
-                  "Total": 8.50,
-                  "Tickets": [
-                    {
-                      "Id": 5431,
-                      "Fecha": "2026-06-04T20:46:23",
-                      "Descripcion": "BARRA DE LABIOS",
-                      "Importe": 8.50
-                    }
-                  ]
-                },
-                {
-                  "Id": 21,
-                  "Nombre": "Dentífrico",
-                  "Total": 12.03,
-                  "Tickets": [
-                    {
-                      "Id": 61,
-                      "Fecha": "2026-05-20T20:10:00",
-                      "Descripcion": "*COLGATE TOTAL",
-                      "Importe": 2.70
-                    },
-                    {
-                      "Id": 63,
-                      "Fecha": "2026-05-20T20:10:00",
-                      "Descripcion": "*COLGATE TOTAL",
-                      "Importe": 2.70
-                    },
-                    {
-                      "Id": 5430,
-                      "Fecha": "2026-06-04T20:46:23",
-                      "Descripcion": "PASTA LAMINADO",
-                      "Importe": 6.63
-                    }
-                  ]
-                },
-                {
-                  "Id": 5120,
-                  "Nombre": "Desodorante",
-                  "Total": 4.22,
-                  "Tickets": [
-                    {
-                      "Id": 5428,
-                      "Fecha": "2026-06-04T20:46:23",
-                      "Descripcion": "DESODORANTE",
-                      "Importe": 2.11
-                    },
-                    {
-                      "Id": 5429,
-                      "Fecha": "2026-06-04T20:46:23",
-                      "Descripcion": "DESODORANTE",
-                      "Importe": 2.11
-                    }
-                  ]
-                },
-                {
-                  "Id": 24,
-                  "Nombre": "Gel de baño",
-                  "Total": 6.79,
-                  "Tickets": [
-                    {
-                      "Id": 79,
-                      "Fecha": "2026-05-20T20:10:00",
-                      "Descripcion": "MOUSSEL JABON 2,80",
-                      "Importe": 2.80
-                    },
-                    {
-                      "Id": 5427,
-                      "Fecha": "2026-06-04T20:46:23",
-                      "Descripcion": "GEL DUCHA H.TOL",
-                      "Importe": 3.99
-                    }
-                  ]
-                },
-                {
-                  "Id": 25,
-                  "Nombre": "Gel depilatorio",
-                  "Total": 2.54,
-                  "Tickets": [
-                    {
-                      "Id": 65,
-                      "Fecha": "2026-05-20T20:10:00",
-                      "Descripcion": "GEL DEPILATORIO",
-                      "Importe": 2.54
-                    }
-                  ]
-                },
-                {
-                  "Id": 5098,
-                  "Nombre": "Maquinilla Venus",
-                  "Total": 16.99,
-                  "Tickets": [
-                    {
-                      "Id": 5268,
-                      "Fecha": "2026-06-17T20:52:00",
-                      "Descripcion": "Maquilla Venus",
-                      "Importe": 16.99
-                    }
-                  ]
-                },
-                {
-                  "Id": 5099,
-                  "Nombre": "Mascarilla Fructis",
-                  "Total": 5.65,
-                  "Tickets": [
-                    {
-                      "Id": 5269,
-                      "Fecha": "2026-06-17T20:52:00",
-                      "Descripcion": "Mascarilla Fructis",
-                      "Importe": 5.65
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4042,
-              "Nombre": "Parafarmacia",
-              "Orden": 4042,
-              "Total": 12.83,
-              "Productos": [
-                {
-                  "Id": 5101,
-                  "Nombre": "Apositos ampolla",
-                  "Total": 11.24,
-                  "Tickets": [
-                    {
-                      "Id": 5556,
-                      "Fecha": "2026-06-13T19:07:03",
-                      "Descripcion": "SECOND SKIN PROT",
-                      "Importe": 6.95
-                    },
-                    {
-                      "Id": 5557,
-                      "Fecha": "2026-06-13T19:07:03",
-                      "Descripcion": "APOSITOS AMPOLLA",
-                      "Importe": 4.29
-                    }
-                  ]
-                },
-                {
-                  "Id": 5102,
-                  "Nombre": "Bastoncillos",
-                  "Total": 1.59,
-                  "Tickets": [
-                    {
-                      "Id": 5558,
-                      "Fecha": "2026-06-13T19:07:03",
-                      "Descripcion": "BASTONCILLOS AL",
-                      "Importe": 1.59
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4045,
-              "Nombre": "Farmacia",
-              "Orden": 4045,
-              "Total": 10.96,
-              "Productos": [
-                {
-                  "Id": 5126,
-                  "Nombre": "Medicinas",
-                  "Total": 10.96,
-                  "Tickets": [
-                    {
-                      "Id": 5446,
-                      "Fecha": "2026-05-30T13:00:00",
-                      "Descripcion": "Inreq",
-                      "Importe": 10.96
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "Id": 5,
           "Nombre": "Mascotas",
           "Orden": 50,
@@ -3989,211 +3797,9 @@
           ]
         },
         {
-          "Id": 8,
-          "Nombre": "Servicios",
-          "Orden": 80,
-          "Total": 16.34,
-          "Tipos": [
-            {
-              "Id": 32,
-              "Nombre": "Parking",
-              "Orden": 32,
-              "Total": 0.95,
-              "Productos": [
-                {
-                  "Id": 61,
-                  "Nombre": "Parking",
-                  "Total": 0.95,
-                  "Tickets": [
-                    {
-                      "Id": 117,
-                      "Fecha": "2026-05-22T20:55:00",
-                      "Descripcion": "Parking",
-                      "Importe": 0.95
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 1039,
-              "Nombre": "Butano",
-              "Orden": 1039,
-              "Total": 15.39,
-              "Productos": [
-                {
-                  "Id": 2074,
-                  "Nombre": "Butano",
-                  "Total": 15.39,
-                  "Tickets": [
-                    {
-                      "Id": 2171,
-                      "Fecha": "2026-05-27T17:00:00",
-                      "Descripcion": "Butano",
-                      "Importe": 15.39
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "Id": 9,
-          "Nombre": "Automoción",
-          "Orden": 90,
-          "Total": 192.06,
-          "Tipos": [
-            {
-              "Id": 15,
-              "Nombre": "Mantenimiento vehículo",
-              "Orden": 15,
-              "Total": 9.99,
-              "Productos": [
-                {
-                  "Id": 5113,
-                  "Nombre": "Anticongelante",
-                  "Total": 9.99,
-                  "Tickets": [
-                    {
-                      "Id": 5378,
-                      "Fecha": "2026-06-13T19:21:00",
-                      "Descripcion": "Anticongelante",
-                      "Importe": 9.99
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4046,
-              "Nombre": "Gasoil",
-              "Orden": 4046,
-              "Total": 182.07,
-              "Productos": [
-                {
-                  "Id": 5127,
-                  "Nombre": "Gasoil",
-                  "Total": 182.07,
-                  "Tickets": [
-                    {
-                      "Id": 5448,
-                      "Fecha": "2026-05-20T22:00:00",
-                      "Descripcion": "Gaoil",
-                      "Importe": 80.00
-                    },
-                    {
-                      "Id": 5447,
-                      "Fecha": "2026-06-04T00:00:00",
-                      "Descripcion": "Gasoil",
-                      "Importe": 87.93
-                    },
-                    {
-                      "Id": 5606,
-                      "Fecha": "2026-06-18T22:00:00",
-                      "Descripcion": "Gasoil",
-                      "Importe": 14.14
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "Id": 10,
-          "Nombre": "Nancyprimor",
-          "Orden": 95,
-          "Total": 35.59,
-          "Tipos": [
-            {
-              "Id": 4044,
-              "Nombre": "Mercería",
-              "Orden": 4044,
-              "Total": 35.59,
-              "Productos": [
-                {
-                  "Id": 5124,
-                  "Nombre": "Adornos",
-                  "Total": 9.59,
-                  "Tickets": [
-                    {
-                      "Id": 5436,
-                      "Fecha": "2026-06-11T19:42:00",
-                      "Descripcion": "Piezas decoración",
-                      "Importe": 0.72
-                    },
-                    {
-                      "Id": 5437,
-                      "Fecha": "2026-06-11T19:42:00",
-                      "Descripcion": "Piezas decoración",
-                      "Importe": 0.72
-                    },
-                    {
-                      "Id": 5438,
-                      "Fecha": "2026-06-11T19:42:00",
-                      "Descripcion": "Piezas decoración",
-                      "Importe": 0.72
-                    },
-                    {
-                      "Id": 5439,
-                      "Fecha": "2026-06-11T19:42:00",
-                      "Descripcion": "Piezas decoración",
-                      "Importe": 0.63
-                    },
-                    {
-                      "Id": 5432,
-                      "Fecha": "2026-06-11T20:03:00",
-                      "Descripcion": "Oso Panda",
-                      "Importe": 0.95
-                    },
-                    {
-                      "Id": 5433,
-                      "Fecha": "2026-06-11T20:03:00",
-                      "Descripcion": "Adorno decoración",
-                      "Importe": 0.85
-                    },
-                    {
-                      "Id": 5607,
-                      "Fecha": "2026-06-13T18:24:00",
-                      "Descripcion": "Labores de punto",
-                      "Importe": 2.00
-                    },
-                    {
-                      "Id": 5608,
-                      "Fecha": "2026-06-13T18:24:00",
-                      "Descripcion": "Labores de punto",
-                      "Importe": 2.00
-                    },
-                    {
-                      "Id": 5609,
-                      "Fecha": "2026-06-13T18:24:00",
-                      "Descripcion": "Manualidades",
-                      "Importe": 1.00
-                    }
-                  ]
-                },
-                {
-                  "Id": 5125,
-                  "Nombre": "Lana",
-                  "Total": 26.00,
-                  "Tickets": [
-                    {
-                      "Id": 5442,
-                      "Fecha": "2026-05-28T00:00:00",
-                      "Descripcion": "Lana",
-                      "Importe": 26.00
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "Id": 11,
           "Nombre": "Financiado",
-          "Orden": 97,
+          "Orden": 90,
           "Total": 1196.96,
           "Tipos": [
             {
@@ -4373,7 +3979,7 @@
         {
           "Id": 12,
           "Nombre": "Recibos del hogar",
-          "Orden": 98,
+          "Orden": 100,
           "Total": 308.58,
           "Tipos": [
             {
@@ -4444,6 +4050,400 @@
                       "Fecha": "2026-07-01T00:00:00",
                       "Descripcion": "Teléfono/Datos & TV",
                       "Importe": 70.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 9,
+          "Nombre": "Automoción",
+          "Orden": 110,
+          "Total": 192.06,
+          "Tipos": [
+            {
+              "Id": 15,
+              "Nombre": "Mantenimiento vehículo",
+              "Orden": 15,
+              "Total": 9.99,
+              "Productos": [
+                {
+                  "Id": 5113,
+                  "Nombre": "Anticongelante",
+                  "Total": 9.99,
+                  "Tickets": [
+                    {
+                      "Id": 5378,
+                      "Fecha": "2026-06-13T19:21:00",
+                      "Descripcion": "Anticongelante",
+                      "Importe": 9.99
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4046,
+              "Nombre": "Gasoil",
+              "Orden": 4046,
+              "Total": 182.07,
+              "Productos": [
+                {
+                  "Id": 5127,
+                  "Nombre": "Gasoil",
+                  "Total": 182.07,
+                  "Tickets": [
+                    {
+                      "Id": 5448,
+                      "Fecha": "2026-05-20T22:00:00",
+                      "Descripcion": "Gaoil",
+                      "Importe": 80.00
+                    },
+                    {
+                      "Id": 5447,
+                      "Fecha": "2026-06-04T00:00:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 87.93
+                    },
+                    {
+                      "Id": 5606,
+                      "Fecha": "2026-06-18T22:00:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 14.14
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 8,
+          "Nombre": "Servicios",
+          "Orden": 111,
+          "Total": 16.34,
+          "Tipos": [
+            {
+              "Id": 32,
+              "Nombre": "Parking",
+              "Orden": 32,
+              "Total": 0.95,
+              "Productos": [
+                {
+                  "Id": 61,
+                  "Nombre": "Parking",
+                  "Total": 0.95,
+                  "Tickets": [
+                    {
+                      "Id": 117,
+                      "Fecha": "2026-05-22T20:55:00",
+                      "Descripcion": "Parking",
+                      "Importe": 0.95
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 1039,
+              "Nombre": "Butano",
+              "Orden": 1039,
+              "Total": 15.39,
+              "Productos": [
+                {
+                  "Id": 2074,
+                  "Nombre": "Butano",
+                  "Total": 15.39,
+                  "Tickets": [
+                    {
+                      "Id": 2171,
+                      "Fecha": "2026-05-27T17:00:00",
+                      "Descripcion": "Butano",
+                      "Importe": 15.39
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "Nombre": "Higiene y cuidado personal",
+          "Orden": 112,
+          "Total": 80.51,
+          "Tipos": [
+            {
+              "Id": 24,
+              "Nombre": "Droguería personal",
+              "Orden": 24,
+              "Total": 56.72,
+              "Productos": [
+                {
+                  "Id": 5119,
+                  "Nombre": "Barra de labios",
+                  "Total": 8.50,
+                  "Tickets": [
+                    {
+                      "Id": 5431,
+                      "Fecha": "2026-06-04T20:46:23",
+                      "Descripcion": "BARRA DE LABIOS",
+                      "Importe": 8.50
+                    }
+                  ]
+                },
+                {
+                  "Id": 21,
+                  "Nombre": "Dentífrico",
+                  "Total": 12.03,
+                  "Tickets": [
+                    {
+                      "Id": 61,
+                      "Fecha": "2026-05-20T20:10:00",
+                      "Descripcion": "*COLGATE TOTAL",
+                      "Importe": 2.70
+                    },
+                    {
+                      "Id": 63,
+                      "Fecha": "2026-05-20T20:10:00",
+                      "Descripcion": "*COLGATE TOTAL",
+                      "Importe": 2.70
+                    },
+                    {
+                      "Id": 5430,
+                      "Fecha": "2026-06-04T20:46:23",
+                      "Descripcion": "PASTA LAMINADO",
+                      "Importe": 6.63
+                    }
+                  ]
+                },
+                {
+                  "Id": 5120,
+                  "Nombre": "Desodorante",
+                  "Total": 4.22,
+                  "Tickets": [
+                    {
+                      "Id": 5428,
+                      "Fecha": "2026-06-04T20:46:23",
+                      "Descripcion": "DESODORANTE",
+                      "Importe": 2.11
+                    },
+                    {
+                      "Id": 5429,
+                      "Fecha": "2026-06-04T20:46:23",
+                      "Descripcion": "DESODORANTE",
+                      "Importe": 2.11
+                    }
+                  ]
+                },
+                {
+                  "Id": 24,
+                  "Nombre": "Gel de baño",
+                  "Total": 6.79,
+                  "Tickets": [
+                    {
+                      "Id": 79,
+                      "Fecha": "2026-05-20T20:10:00",
+                      "Descripcion": "MOUSSEL JABON 2,80",
+                      "Importe": 2.80
+                    },
+                    {
+                      "Id": 5427,
+                      "Fecha": "2026-06-04T20:46:23",
+                      "Descripcion": "GEL DUCHA H.TOL",
+                      "Importe": 3.99
+                    }
+                  ]
+                },
+                {
+                  "Id": 25,
+                  "Nombre": "Gel depilatorio",
+                  "Total": 2.54,
+                  "Tickets": [
+                    {
+                      "Id": 65,
+                      "Fecha": "2026-05-20T20:10:00",
+                      "Descripcion": "GEL DEPILATORIO",
+                      "Importe": 2.54
+                    }
+                  ]
+                },
+                {
+                  "Id": 5098,
+                  "Nombre": "Maquinilla Venus",
+                  "Total": 16.99,
+                  "Tickets": [
+                    {
+                      "Id": 5268,
+                      "Fecha": "2026-06-17T20:52:00",
+                      "Descripcion": "Maquilla Venus",
+                      "Importe": 16.99
+                    }
+                  ]
+                },
+                {
+                  "Id": 5099,
+                  "Nombre": "Mascarilla Fructis",
+                  "Total": 5.65,
+                  "Tickets": [
+                    {
+                      "Id": 5269,
+                      "Fecha": "2026-06-17T20:52:00",
+                      "Descripcion": "Mascarilla Fructis",
+                      "Importe": 5.65
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4042,
+              "Nombre": "Parafarmacia",
+              "Orden": 4042,
+              "Total": 12.83,
+              "Productos": [
+                {
+                  "Id": 5101,
+                  "Nombre": "Apositos ampolla",
+                  "Total": 11.24,
+                  "Tickets": [
+                    {
+                      "Id": 5556,
+                      "Fecha": "2026-06-13T19:07:03",
+                      "Descripcion": "SECOND SKIN PROT",
+                      "Importe": 6.95
+                    },
+                    {
+                      "Id": 5557,
+                      "Fecha": "2026-06-13T19:07:03",
+                      "Descripcion": "APOSITOS AMPOLLA",
+                      "Importe": 4.29
+                    }
+                  ]
+                },
+                {
+                  "Id": 5102,
+                  "Nombre": "Bastoncillos",
+                  "Total": 1.59,
+                  "Tickets": [
+                    {
+                      "Id": 5558,
+                      "Fecha": "2026-06-13T19:07:03",
+                      "Descripcion": "BASTONCILLOS AL",
+                      "Importe": 1.59
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4045,
+              "Nombre": "Farmacia",
+              "Orden": 4045,
+              "Total": 10.96,
+              "Productos": [
+                {
+                  "Id": 5126,
+                  "Nombre": "Medicinas",
+                  "Total": 10.96,
+                  "Tickets": [
+                    {
+                      "Id": 5446,
+                      "Fecha": "2026-05-30T13:00:00",
+                      "Descripcion": "Inreq",
+                      "Importe": 10.96
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 10,
+          "Nombre": "Nancyprimor",
+          "Orden": 120,
+          "Total": 35.59,
+          "Tipos": [
+            {
+              "Id": 4044,
+              "Nombre": "Mercería",
+              "Orden": 4044,
+              "Total": 35.59,
+              "Productos": [
+                {
+                  "Id": 5124,
+                  "Nombre": "Adornos",
+                  "Total": 9.59,
+                  "Tickets": [
+                    {
+                      "Id": 5436,
+                      "Fecha": "2026-06-11T19:42:00",
+                      "Descripcion": "Piezas decoración",
+                      "Importe": 0.72
+                    },
+                    {
+                      "Id": 5437,
+                      "Fecha": "2026-06-11T19:42:00",
+                      "Descripcion": "Piezas decoración",
+                      "Importe": 0.72
+                    },
+                    {
+                      "Id": 5438,
+                      "Fecha": "2026-06-11T19:42:00",
+                      "Descripcion": "Piezas decoración",
+                      "Importe": 0.72
+                    },
+                    {
+                      "Id": 5439,
+                      "Fecha": "2026-06-11T19:42:00",
+                      "Descripcion": "Piezas decoración",
+                      "Importe": 0.63
+                    },
+                    {
+                      "Id": 5432,
+                      "Fecha": "2026-06-11T20:03:00",
+                      "Descripcion": "Oso Panda",
+                      "Importe": 0.95
+                    },
+                    {
+                      "Id": 5433,
+                      "Fecha": "2026-06-11T20:03:00",
+                      "Descripcion": "Adorno decoración",
+                      "Importe": 0.85
+                    },
+                    {
+                      "Id": 5607,
+                      "Fecha": "2026-06-13T18:24:00",
+                      "Descripcion": "Labores de punto",
+                      "Importe": 2.00
+                    },
+                    {
+                      "Id": 5608,
+                      "Fecha": "2026-06-13T18:24:00",
+                      "Descripcion": "Labores de punto",
+                      "Importe": 2.00
+                    },
+                    {
+                      "Id": 5609,
+                      "Fecha": "2026-06-13T18:24:00",
+                      "Descripcion": "Manualidades",
+                      "Importe": 1.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 5125,
+                  "Nombre": "Lana",
+                  "Total": 26.00,
+                  "Tickets": [
+                    {
+                      "Id": 5442,
+                      "Fecha": "2026-05-28T00:00:00",
+                      "Descripcion": "Lana",
+                      "Importe": 26.00
                     }
                   ]
                 }
@@ -7546,278 +7546,6 @@
           ]
         },
         {
-          "Id": 3,
-          "Nombre": "Higiene y cuidado personal",
-          "Orden": 40,
-          "Total": 125.03,
-          "Tipos": [
-            {
-              "Id": 24,
-              "Nombre": "Droguería personal",
-              "Orden": 24,
-              "Total": 107.54,
-              "Productos": [
-                {
-                  "Id": 5119,
-                  "Nombre": "Barra de labios",
-                  "Total": 17.00,
-                  "Tickets": [
-                    {
-                      "Id": 5692,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "*BARRA DE LABIOS",
-                      "Importe": 8.50
-                    },
-                    {
-                      "Id": 5695,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "BARRA DE LABIOS",
-                      "Importe": 8.50
-                    }
-                  ]
-                },
-                {
-                  "Id": 21,
-                  "Nombre": "Dentífrico",
-                  "Total": 6.89,
-                  "Tickets": [
-                    {
-                      "Id": 5771,
-                      "Fecha": "2026-06-25T19:16:13",
-                      "Descripcion": "COLGATE TOTAL",
-                      "Importe": 3.20
-                    },
-                    {
-                      "Id": 7733,
-                      "Fecha": "2026-07-13T21:17:31",
-                      "Descripcion": "PASTA DENTRIFICA",
-                      "Importe": 3.69
-                    }
-                  ]
-                },
-                {
-                  "Id": 24,
-                  "Nombre": "Gel de baño",
-                  "Total": 1.88,
-                  "Tickets": [
-                    {
-                      "Id": 5783,
-                      "Fecha": "2026-07-01T21:03:04",
-                      "Descripcion": "GEL BAÑO BUBBLE",
-                      "Importe": 1.88
-                    }
-                  ]
-                },
-                {
-                  "Id": 5156,
-                  "Nombre": "Jabón de manos",
-                  "Total": 1.30,
-                  "Tickets": [
-                    {
-                      "Id": 5784,
-                      "Fecha": "2026-07-01T21:03:04",
-                      "Descripcion": "JABON MANOS FLOR",
-                      "Importe": 1.30
-                    }
-                  ]
-                },
-                {
-                  "Id": 5140,
-                  "Nombre": "Laca de uñas",
-                  "Total": 3.18,
-                  "Tickets": [
-                    {
-                      "Id": 5693,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "*LACA UÑAS MAYBEL",
-                      "Importe": 1.59
-                    },
-                    {
-                      "Id": 5694,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "*LACA UÑAS GEL",
-                      "Importe": 1.59
-                    }
-                  ]
-                },
-                {
-                  "Id": 5131,
-                  "Nombre": "Maquinilla depilación",
-                  "Total": 12.74,
-                  "Tickets": [
-                    {
-                      "Id": 5617,
-                      "Fecha": "2026-06-26T13:09:00",
-                      "Descripcion": "Maquinilla Venus",
-                      "Importe": 12.74
-                    }
-                  ]
-                },
-                {
-                  "Id": 5099,
-                  "Nombre": "Mascarilla Fructis",
-                  "Total": 7.14,
-                  "Tickets": [
-                    {
-                      "Id": 5790,
-                      "Fecha": "2026-07-01T21:03:04",
-                      "Descripcion": "MASCARILLA HIALU",
-                      "Importe": 1.19
-                    },
-                    {
-                      "Id": 5791,
-                      "Fecha": "2026-07-01T21:03:04",
-                      "Descripcion": "MASCARILLA HIALU",
-                      "Importe": 1.19
-                    },
-                    {
-                      "Id": 5792,
-                      "Fecha": "2026-07-01T21:03:04",
-                      "Descripcion": "MASCARILLA COLAG",
-                      "Importe": 1.19
-                    },
-                    {
-                      "Id": 6749,
-                      "Fecha": "2026-07-06T20:00:26",
-                      "Descripcion": "MASCARILLA COLAG",
-                      "Importe": 1.19
-                    },
-                    {
-                      "Id": 6750,
-                      "Fecha": "2026-07-06T20:00:26",
-                      "Descripcion": "MASCARILLA COLAG",
-                      "Importe": 1.19
-                    },
-                    {
-                      "Id": 6751,
-                      "Fecha": "2026-07-06T20:00:26",
-                      "Descripcion": "MASCARILLA COLAG",
-                      "Importe": 1.19
-                    }
-                  ]
-                },
-                {
-                  "Id": 5142,
-                  "Nombre": "Protector solar",
-                  "Total": 53.47,
-                  "Tickets": [
-                    {
-                      "Id": 5651,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "*FLUIDO SOLAR AVE",
-                      "Importe": 15.04
-                    },
-                    {
-                      "Id": 5652,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "PROTECTOR SOLAR",
-                      "Importe": 23.39
-                    },
-                    {
-                      "Id": 5653,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "*FLUIDO SOLAR AVE",
-                      "Importe": 15.04
-                    }
-                  ]
-                },
-                {
-                  "Id": 5141,
-                  "Nombre": "Quita esmalte",
-                  "Total": 2.14,
-                  "Tickets": [
-                    {
-                      "Id": 5684,
-                      "Fecha": "2026-06-20T20:05:58",
-                      "Descripcion": "QUITAESMALTE CUT",
-                      "Importe": 2.14
-                    }
-                  ]
-                },
-                {
-                  "Id": 6147,
-                  "Nombre": "Toallitas limpiagafas",
-                  "Total": 1.80,
-                  "Tickets": [
-                    {
-                      "Id": 6752,
-                      "Fecha": "2026-07-06T20:00:26",
-                      "Descripcion": "BREF LIMPIAGAFAS",
-                      "Importe": 1.80
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4042,
-              "Nombre": "Parafarmacia",
-              "Orden": 4042,
-              "Total": 1.95,
-              "Productos": [
-                {
-                  "Id": 7145,
-                  "Nombre": "Gafas eclipse",
-                  "Total": 1.95,
-                  "Tickets": [
-                    {
-                      "Id": 7736,
-                      "Fecha": "2026-07-13T21:17:31",
-                      "Descripcion": "GAFAS ECLIPSE",
-                      "Importe": 1.95
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4045,
-              "Nombre": "Farmacia",
-              "Orden": 4045,
-              "Total": 15.54,
-              "Productos": [
-                {
-                  "Id": 5126,
-                  "Nombre": "Medicinas",
-                  "Total": 15.54,
-                  "Tickets": [
-                    {
-                      "Id": 5638,
-                      "Fecha": "2026-06-27T12:13:00",
-                      "Descripcion": "Sibilla diario",
-                      "Importe": 1.88
-                    },
-                    {
-                      "Id": 5639,
-                      "Fecha": "2026-06-27T12:13:00",
-                      "Descripcion": "Inreq",
-                      "Importe": 5.48
-                    },
-                    {
-                      "Id": 10902,
-                      "Fecha": "2026-07-13T15:00:00",
-                      "Descripcion": "Eutirox",
-                      "Importe": 5.18
-                    },
-                    {
-                      "Id": 11910,
-                      "Fecha": "2026-07-13T15:00:00",
-                      "Descripcion": "Gafas eclipse solar",
-                      "Importe": 1.50
-                    },
-                    {
-                      "Id": 11911,
-                      "Fecha": "2026-07-13T15:00:00",
-                      "Descripcion": "Gafas eclipse solar",
-                      "Importe": 1.50
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "Id": 5,
           "Nombre": "Mascotas",
           "Orden": 50,
@@ -8247,142 +7975,9 @@
           ]
         },
         {
-          "Id": 8,
-          "Nombre": "Servicios",
-          "Orden": 80,
-          "Total": 75.79,
-          "Tipos": [
-            {
-              "Id": 32,
-              "Nombre": "Parking",
-              "Orden": 32,
-              "Total": 0.40,
-              "Productos": [
-                {
-                  "Id": 61,
-                  "Nombre": "Parking",
-                  "Total": 0.40,
-                  "Tickets": [
-                    {
-                      "Id": 6753,
-                      "Fecha": "2026-07-07T19:40:00",
-                      "Descripcion": "Parking",
-                      "Importe": 0.40
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 1039,
-              "Nombre": "Butano",
-              "Orden": 1039,
-              "Total": 15.39,
-              "Productos": [
-                {
-                  "Id": 2074,
-                  "Nombre": "Butano",
-                  "Total": 15.39,
-                  "Tickets": [
-                    {
-                      "Id": 11006,
-                      "Fecha": "2026-08-01T00:00:00",
-                      "Descripcion": "Butano",
-                      "Importe": 15.39
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 5050,
-              "Nombre": "Comunidadd",
-              "Orden": 5050,
-              "Total": 60.00,
-              "Productos": [
-                {
-                  "Id": 9160,
-                  "Nombre": "Comunidad",
-                  "Total": 60.00,
-                  "Tickets": [
-                    {
-                      "Id": 11008,
-                      "Fecha": "2026-08-01T00:00:00",
-                      "Descripcion": "Cuota comunidad",
-                      "Importe": 60.00
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "Id": 9,
-          "Nombre": "Automoción",
-          "Orden": 90,
-          "Total": 140.35,
-          "Tipos": [
-            {
-              "Id": 15,
-              "Nombre": "Mantenimiento vehículo",
-              "Orden": 15,
-              "Total": 31.88,
-              "Productos": [
-                {
-                  "Id": 9159,
-                  "Nombre": "Seguro",
-                  "Total": 31.88,
-                  "Tickets": [
-                    {
-                      "Id": 11002,
-                      "Fecha": "2026-08-01T00:00:00",
-                      "Descripcion": "Seguro vehículo",
-                      "Importe": 31.88
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4046,
-              "Nombre": "Gasoil",
-              "Orden": 4046,
-              "Total": 108.47,
-              "Productos": [
-                {
-                  "Id": 5127,
-                  "Nombre": "Gasoil",
-                  "Total": 108.47,
-                  "Tickets": [
-                    {
-                      "Id": 5712,
-                      "Fecha": "2026-06-21T14:00:00",
-                      "Descripcion": "Gasoil",
-                      "Importe": 13.27
-                    },
-                    {
-                      "Id": 6715,
-                      "Fecha": "2026-07-01T14:45:00",
-                      "Descripcion": "Gasoil",
-                      "Importe": 15.00
-                    },
-                    {
-                      "Id": 5809,
-                      "Fecha": "2026-07-02T17:00:00",
-                      "Descripcion": "Gasoil",
-                      "Importe": 80.20
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "Id": 11,
           "Nombre": "Financiado",
-          "Orden": 97,
+          "Orden": 90,
           "Total": 1196.96,
           "Tipos": [
             {
@@ -8562,7 +8157,7 @@
         {
           "Id": 12,
           "Nombre": "Recibos del hogar",
-          "Orden": 98,
+          "Orden": 100,
           "Total": 335.67,
           "Tipos": [
             {
@@ -8639,6 +8234,411 @@
               ]
             }
           ]
+        },
+        {
+          "Id": 9,
+          "Nombre": "Automoción",
+          "Orden": 110,
+          "Total": 140.35,
+          "Tipos": [
+            {
+              "Id": 15,
+              "Nombre": "Mantenimiento vehículo",
+              "Orden": 15,
+              "Total": 31.88,
+              "Productos": [
+                {
+                  "Id": 9159,
+                  "Nombre": "Seguro",
+                  "Total": 31.88,
+                  "Tickets": [
+                    {
+                      "Id": 11002,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Seguro vehículo",
+                      "Importe": 31.88
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4046,
+              "Nombre": "Gasoil",
+              "Orden": 4046,
+              "Total": 108.47,
+              "Productos": [
+                {
+                  "Id": 5127,
+                  "Nombre": "Gasoil",
+                  "Total": 108.47,
+                  "Tickets": [
+                    {
+                      "Id": 5712,
+                      "Fecha": "2026-06-21T14:00:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 13.27
+                    },
+                    {
+                      "Id": 6715,
+                      "Fecha": "2026-07-01T14:45:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 15.00
+                    },
+                    {
+                      "Id": 5809,
+                      "Fecha": "2026-07-02T17:00:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 80.20
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 8,
+          "Nombre": "Servicios",
+          "Orden": 111,
+          "Total": 75.79,
+          "Tipos": [
+            {
+              "Id": 32,
+              "Nombre": "Parking",
+              "Orden": 32,
+              "Total": 0.40,
+              "Productos": [
+                {
+                  "Id": 61,
+                  "Nombre": "Parking",
+                  "Total": 0.40,
+                  "Tickets": [
+                    {
+                      "Id": 6753,
+                      "Fecha": "2026-07-07T19:40:00",
+                      "Descripcion": "Parking",
+                      "Importe": 0.40
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 1039,
+              "Nombre": "Butano",
+              "Orden": 1039,
+              "Total": 15.39,
+              "Productos": [
+                {
+                  "Id": 2074,
+                  "Nombre": "Butano",
+                  "Total": 15.39,
+                  "Tickets": [
+                    {
+                      "Id": 11006,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Butano",
+                      "Importe": 15.39
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 5050,
+              "Nombre": "Comunidadd",
+              "Orden": 5050,
+              "Total": 60.00,
+              "Productos": [
+                {
+                  "Id": 9160,
+                  "Nombre": "Comunidad",
+                  "Total": 60.00,
+                  "Tickets": [
+                    {
+                      "Id": 11008,
+                      "Fecha": "2026-08-01T00:00:00",
+                      "Descripcion": "Cuota comunidad",
+                      "Importe": 60.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "Nombre": "Higiene y cuidado personal",
+          "Orden": 112,
+          "Total": 125.03,
+          "Tipos": [
+            {
+              "Id": 24,
+              "Nombre": "Droguería personal",
+              "Orden": 24,
+              "Total": 107.54,
+              "Productos": [
+                {
+                  "Id": 5119,
+                  "Nombre": "Barra de labios",
+                  "Total": 17.00,
+                  "Tickets": [
+                    {
+                      "Id": 5692,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "*BARRA DE LABIOS",
+                      "Importe": 8.50
+                    },
+                    {
+                      "Id": 5695,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "BARRA DE LABIOS",
+                      "Importe": 8.50
+                    }
+                  ]
+                },
+                {
+                  "Id": 21,
+                  "Nombre": "Dentífrico",
+                  "Total": 6.89,
+                  "Tickets": [
+                    {
+                      "Id": 5771,
+                      "Fecha": "2026-06-25T19:16:13",
+                      "Descripcion": "COLGATE TOTAL",
+                      "Importe": 3.20
+                    },
+                    {
+                      "Id": 7733,
+                      "Fecha": "2026-07-13T21:17:31",
+                      "Descripcion": "PASTA DENTRIFICA",
+                      "Importe": 3.69
+                    }
+                  ]
+                },
+                {
+                  "Id": 24,
+                  "Nombre": "Gel de baño",
+                  "Total": 1.88,
+                  "Tickets": [
+                    {
+                      "Id": 5783,
+                      "Fecha": "2026-07-01T21:03:04",
+                      "Descripcion": "GEL BAÑO BUBBLE",
+                      "Importe": 1.88
+                    }
+                  ]
+                },
+                {
+                  "Id": 5156,
+                  "Nombre": "Jabón de manos",
+                  "Total": 1.30,
+                  "Tickets": [
+                    {
+                      "Id": 5784,
+                      "Fecha": "2026-07-01T21:03:04",
+                      "Descripcion": "JABON MANOS FLOR",
+                      "Importe": 1.30
+                    }
+                  ]
+                },
+                {
+                  "Id": 5140,
+                  "Nombre": "Laca de uñas",
+                  "Total": 3.18,
+                  "Tickets": [
+                    {
+                      "Id": 5693,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "*LACA UÑAS MAYBEL",
+                      "Importe": 1.59
+                    },
+                    {
+                      "Id": 5694,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "*LACA UÑAS GEL",
+                      "Importe": 1.59
+                    }
+                  ]
+                },
+                {
+                  "Id": 5131,
+                  "Nombre": "Maquinilla depilación",
+                  "Total": 12.74,
+                  "Tickets": [
+                    {
+                      "Id": 5617,
+                      "Fecha": "2026-06-26T13:09:00",
+                      "Descripcion": "Maquinilla Venus",
+                      "Importe": 12.74
+                    }
+                  ]
+                },
+                {
+                  "Id": 5099,
+                  "Nombre": "Mascarilla Fructis",
+                  "Total": 7.14,
+                  "Tickets": [
+                    {
+                      "Id": 5790,
+                      "Fecha": "2026-07-01T21:03:04",
+                      "Descripcion": "MASCARILLA HIALU",
+                      "Importe": 1.19
+                    },
+                    {
+                      "Id": 5791,
+                      "Fecha": "2026-07-01T21:03:04",
+                      "Descripcion": "MASCARILLA HIALU",
+                      "Importe": 1.19
+                    },
+                    {
+                      "Id": 5792,
+                      "Fecha": "2026-07-01T21:03:04",
+                      "Descripcion": "MASCARILLA COLAG",
+                      "Importe": 1.19
+                    },
+                    {
+                      "Id": 6749,
+                      "Fecha": "2026-07-06T20:00:26",
+                      "Descripcion": "MASCARILLA COLAG",
+                      "Importe": 1.19
+                    },
+                    {
+                      "Id": 6750,
+                      "Fecha": "2026-07-06T20:00:26",
+                      "Descripcion": "MASCARILLA COLAG",
+                      "Importe": 1.19
+                    },
+                    {
+                      "Id": 6751,
+                      "Fecha": "2026-07-06T20:00:26",
+                      "Descripcion": "MASCARILLA COLAG",
+                      "Importe": 1.19
+                    }
+                  ]
+                },
+                {
+                  "Id": 5142,
+                  "Nombre": "Protector solar",
+                  "Total": 53.47,
+                  "Tickets": [
+                    {
+                      "Id": 5651,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "*FLUIDO SOLAR AVE",
+                      "Importe": 15.04
+                    },
+                    {
+                      "Id": 5652,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "PROTECTOR SOLAR",
+                      "Importe": 23.39
+                    },
+                    {
+                      "Id": 5653,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "*FLUIDO SOLAR AVE",
+                      "Importe": 15.04
+                    }
+                  ]
+                },
+                {
+                  "Id": 5141,
+                  "Nombre": "Quita esmalte",
+                  "Total": 2.14,
+                  "Tickets": [
+                    {
+                      "Id": 5684,
+                      "Fecha": "2026-06-20T20:05:58",
+                      "Descripcion": "QUITAESMALTE CUT",
+                      "Importe": 2.14
+                    }
+                  ]
+                },
+                {
+                  "Id": 6147,
+                  "Nombre": "Toallitas limpiagafas",
+                  "Total": 1.80,
+                  "Tickets": [
+                    {
+                      "Id": 6752,
+                      "Fecha": "2026-07-06T20:00:26",
+                      "Descripcion": "BREF LIMPIAGAFAS",
+                      "Importe": 1.80
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4042,
+              "Nombre": "Parafarmacia",
+              "Orden": 4042,
+              "Total": 1.95,
+              "Productos": [
+                {
+                  "Id": 7145,
+                  "Nombre": "Gafas eclipse",
+                  "Total": 1.95,
+                  "Tickets": [
+                    {
+                      "Id": 7736,
+                      "Fecha": "2026-07-13T21:17:31",
+                      "Descripcion": "GAFAS ECLIPSE",
+                      "Importe": 1.95
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4045,
+              "Nombre": "Farmacia",
+              "Orden": 4045,
+              "Total": 15.54,
+              "Productos": [
+                {
+                  "Id": 5126,
+                  "Nombre": "Medicinas",
+                  "Total": 15.54,
+                  "Tickets": [
+                    {
+                      "Id": 5638,
+                      "Fecha": "2026-06-27T12:13:00",
+                      "Descripcion": "Sibilla diario",
+                      "Importe": 1.88
+                    },
+                    {
+                      "Id": 5639,
+                      "Fecha": "2026-06-27T12:13:00",
+                      "Descripcion": "Inreq",
+                      "Importe": 5.48
+                    },
+                    {
+                      "Id": 10902,
+                      "Fecha": "2026-07-13T15:00:00",
+                      "Descripcion": "Eutirox",
+                      "Importe": 5.18
+                    },
+                    {
+                      "Id": 11910,
+                      "Fecha": "2026-07-13T15:00:00",
+                      "Descripcion": "Gafas eclipse solar",
+                      "Importe": 1.50
+                    },
+                    {
+                      "Id": 11911,
+                      "Fecha": "2026-07-13T15:00:00",
+                      "Descripcion": "Gafas eclipse solar",
+                      "Importe": 1.50
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -8646,14 +8646,14 @@
       "IdPeriodo": 4,
       "Nombre": "julio - agosto",
       "Desde": "2026-07-21T00:00:00",
-      "Hasta": "2026-07-20T00:00:00",
+      "Hasta": "2026-08-20T00:00:00",
       "Presupuesto": 2445.91,
       "Categorias": [
         {
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 634.51,
+          "Total": 648.13,
           "Tipos": [
             {
               "Id": 10,
@@ -8819,12 +8819,12 @@
               "Id": 13,
               "Nombre": "Conservas",
               "Orden": 13,
-              "Total": 29.41,
+              "Total": 33.61,
               "Productos": [
                 {
                   "Id": 5076,
                   "Nombre": "Atún claro",
-                  "Total": 7.98,
+                  "Total": 12.18,
                   "Tickets": [
                     {
                       "Id": 9797,
@@ -8835,6 +8835,12 @@
                     {
                       "Id": 10819,
                       "Fecha": "2026-07-30T13:45:00",
+                      "Descripcion": "ATUN CLARO NATURAL",
+                      "Importe": 4.20
+                    },
+                    {
+                      "Id": 12935,
+                      "Fecha": "2026-08-19T20:36:00",
                       "Descripcion": "ATUN CLARO NATURAL",
                       "Importe": 4.20
                     }
@@ -9077,7 +9083,7 @@
               "Id": 17,
               "Nombre": "Lácteos",
               "Orden": 17,
-              "Total": 89.56,
+              "Total": 92.51,
               "Productos": [
                 {
                   "Id": 33,
@@ -9157,7 +9163,7 @@
                 {
                   "Id": 42,
                   "Nombre": "Queso cocinar",
-                  "Total": 30.76,
+                  "Total": 33.71,
                   "Tickets": [
                     {
                       "Id": 9796,
@@ -9248,6 +9254,12 @@
                       "Fecha": "2026-08-14T21:05:27",
                       "Descripcion": "Q. UNTAR DE CABRA",
                       "Importe": 1.80
+                    },
+                    {
+                      "Id": 12933,
+                      "Fecha": "2026-08-19T20:36:00",
+                      "Descripcion": "QUESO FRESCO CABRA",
+                      "Importe": 2.95
                     }
                   ]
                 },
@@ -9539,12 +9551,12 @@
               "Id": 6,
               "Nombre": "Fruta y verdura",
               "Orden": 30,
-              "Total": 126.88,
+              "Total": 131.55,
               "Productos": [
                 {
                   "Id": 74,
                   "Nombre": "Aguacate",
-                  "Total": 7.16,
+                  "Total": 10.38,
                   "Tickets": [
                     {
                       "Id": 10829,
@@ -9563,6 +9575,12 @@
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "AGUACATE GIRSAC",
                       "Importe": 2.79
+                    },
+                    {
+                      "Id": 12932,
+                      "Fecha": "2026-08-19T20:36:00",
+                      "Descripcion": "AGUACATE BANDEJA",
+                      "Importe": 3.22
                     }
                   ]
                 },
@@ -9794,7 +9812,7 @@
                 {
                   "Id": 23,
                   "Nombre": "Ensalada",
-                  "Total": 13.17,
+                  "Total": 14.62,
                   "Tickets": [
                     {
                       "Id": 10791,
@@ -9855,6 +9873,12 @@
                       "Fecha": "2026-08-17T20:02:10",
                       "Descripcion": "CANONIGOS 100G",
                       "Importe": 0.99
+                    },
+                    {
+                      "Id": 12931,
+                      "Fecha": "2026-08-19T20:36:00",
+                      "Descripcion": "DUO CANONIGOS RUCULA",
+                      "Importe": 1.45
                     }
                   ]
                 },
@@ -10189,7 +10213,7 @@
               "Id": 30,
               "Nombre": "Frutos secos",
               "Orden": 30,
-              "Total": 16.85,
+              "Total": 18.65,
               "Productos": [
                 {
                   "Id": 8156,
@@ -10277,6 +10301,19 @@
                       "Id": 10878,
                       "Fecha": "2026-08-05T20:12:00",
                       "Descripcion": "NUEZ TROCEADA",
+                      "Importe": 1.80
+                    }
+                  ]
+                },
+                {
+                  "Id": 85,
+                  "Nombre": "Pasas",
+                  "Total": 1.80,
+                  "Tickets": [
+                    {
+                      "Id": 12934,
+                      "Fecha": "2026-08-19T20:36:00",
+                      "Descripcion": "PASAS SULTANAS",
                       "Importe": 1.80
                     }
                   ]
@@ -11214,13 +11251,13 @@
           "Id": 4,
           "Nombre": "Hogar y limpieza",
           "Orden": 20,
-          "Total": 39.81,
+          "Total": 39.96,
           "Tipos": [
             {
               "Id": 5,
               "Nombre": "Droguería hogar",
               "Orden": 70,
-              "Total": 39.81,
+              "Total": 39.96,
               "Productos": [
                 {
                   "Id": 9146,
@@ -11238,7 +11275,7 @@
                 {
                   "Id": 6,
                   "Nombre": "Bolsa supermercado",
-                  "Total": 4.02,
+                  "Total": 4.17,
                   "Tickets": [
                     {
                       "Id": 10784,
@@ -11407,6 +11444,12 @@
                       "Fecha": "2026-08-18T21:01:00",
                       "Descripcion": "BOLSA PLASTICO",
                       "Importe": 0.15
+                    },
+                    {
+                      "Id": 12936,
+                      "Fecha": "2026-08-19T20:36:00",
+                      "Descripcion": "BOLSA PLASTICO",
+                      "Importe": 0.15
                     }
                   ]
                 },
@@ -11517,156 +11560,6 @@
                       "Fecha": "2026-08-10T21:42:29",
                       "Descripcion": "SUAVIZANTE VERNE",
                       "Importe": 2.90
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "Id": 3,
-          "Nombre": "Higiene y cuidado personal",
-          "Orden": 40,
-          "Total": 107.70,
-          "Tipos": [
-            {
-              "Id": 24,
-              "Nombre": "Droguería personal",
-              "Orden": 24,
-              "Total": 7.39,
-              "Productos": [
-                {
-                  "Id": 21,
-                  "Nombre": "Dentífrico",
-                  "Total": 5.82,
-                  "Tickets": [
-                    {
-                      "Id": 9771,
-                      "Fecha": "2026-07-31T14:24:26",
-                      "Descripcion": "CREMA DENTAL SE",
-                      "Importe": 2.91
-                    },
-                    {
-                      "Id": 9772,
-                      "Fecha": "2026-07-31T14:24:26",
-                      "Descripcion": "CREMA DENTAL SE",
-                      "Importe": 2.91
-                    }
-                  ]
-                },
-                {
-                  "Id": 24,
-                  "Nombre": "Gel de baño",
-                  "Total": 1.57,
-                  "Tickets": [
-                    {
-                      "Id": 9764,
-                      "Fecha": "2026-07-31T14:24:26",
-                      "Descripcion": "GEL BAÑO CLASSIC",
-                      "Importe": 1.57
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4045,
-              "Nombre": "Farmacia",
-              "Orden": 4045,
-              "Total": 47.81,
-              "Productos": [
-                {
-                  "Id": 5126,
-                  "Nombre": "Medicinas",
-                  "Total": 47.81,
-                  "Tickets": [
-                    {
-                      "Id": 7715,
-                      "Fecha": "2026-07-21T13:18:00",
-                      "Descripcion": "Colecoxib alter 200 mg",
-                      "Importe": 11.14
-                    },
-                    {
-                      "Id": 7716,
-                      "Fecha": "2026-07-21T13:18:00",
-                      "Descripcion": "Inreq",
-                      "Importe": 5.48
-                    },
-                    {
-                      "Id": 7717,
-                      "Fecha": "2026-07-21T13:18:00",
-                      "Descripcion": "Inreq",
-                      "Importe": 5.48
-                    },
-                    {
-                      "Id": 7718,
-                      "Fecha": "2026-07-21T13:18:00",
-                      "Descripcion": "Inreq",
-                      "Importe": -10.96
-                    },
-                    {
-                      "Id": 12922,
-                      "Fecha": "2026-07-28T15:00:00",
-                      "Descripcion": "?",
-                      "Importe": 8.84
-                    },
-                    {
-                      "Id": 10917,
-                      "Fecha": "2026-08-04T17:00:00",
-                      "Descripcion": "?",
-                      "Importe": 3.14
-                    },
-                    {
-                      "Id": 10918,
-                      "Fecha": "2026-08-04T17:10:00",
-                      "Descripcion": "?",
-                      "Importe": 2.94
-                    },
-                    {
-                      "Id": 10922,
-                      "Fecha": "2026-08-10T23:28:00",
-                      "Descripcion": "Rosuvastatina",
-                      "Importe": 4.76
-                    },
-                    {
-                      "Id": 10923,
-                      "Fecha": "2026-08-10T23:28:00",
-                      "Descripcion": "Espidifen 600",
-                      "Importe": 1.25
-                    },
-                    {
-                      "Id": 10924,
-                      "Fecha": "2026-08-10T23:28:00",
-                      "Descripcion": "Blisel",
-                      "Importe": 0.79
-                    },
-                    {
-                      "Id": 11909,
-                      "Fecha": "2026-08-15T17:00:00",
-                      "Descripcion": "Frenadol",
-                      "Importe": 14.95
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 5051,
-              "Nombre": "Peluquería",
-              "Orden": 5051,
-              "Total": 52.50,
-              "Productos": [
-                {
-                  "Id": 9164,
-                  "Nombre": "Peluquería",
-                  "Total": 52.50,
-                  "Tickets": [
-                    {
-                      "Id": 11023,
-                      "Fecha": "2026-09-01T00:00:00",
-                      "Descripcion": "Peluquería presupuestado",
-                      "Importe": 52.50
                     }
                   ]
                 }
@@ -11808,13 +11701,13 @@
           "Id": 6,
           "Nombre": "Ocio y cultura",
           "Orden": 60,
-          "Total": 52.97,
+          "Total": 55.77,
           "Tipos": [
             {
               "Id": 37,
               "Nombre": "Cafetería",
               "Orden": 37,
-              "Total": 49.97,
+              "Total": 52.77,
               "Productos": [
                 {
                   "Id": 71,
@@ -11880,7 +11773,7 @@
                 {
                   "Id": 70,
                   "Nombre": "Café con l. vegetal",
-                  "Total": 22.70,
+                  "Total": 25.50,
                   "Tickets": [
                     {
                       "Id": 10905,
@@ -11965,6 +11858,18 @@
                       "Fecha": "2026-08-18T20:16:00",
                       "Descripcion": "Café soja mediano",
                       "Importe": 1.50
+                    },
+                    {
+                      "Id": 13029,
+                      "Fecha": "2026-08-19T18:00:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
+                    },
+                    {
+                      "Id": 13030,
+                      "Fecha": "2026-08-19T18:00:00",
+                      "Descripcion": "Café con leche",
+                      "Importe": 1.40
                     }
                   ]
                 },
@@ -12054,14 +11959,27 @@
           "Id": 2,
           "Nombre": "Bricolaje / Ferretería",
           "Orden": 70,
-          "Total": 7.35,
+          "Total": 8.95,
           "Tipos": [
             {
               "Id": 33,
               "Nombre": "Ferretería",
               "Orden": 33,
-              "Total": 7.35,
+              "Total": 8.95,
               "Productos": [
+                {
+                  "Id": 11157,
+                  "Nombre": "Accesorios Electricidad/Electrónica",
+                  "Total": 1.60,
+                  "Tickets": [
+                    {
+                      "Id": 13028,
+                      "Fecha": "2026-08-19T14:22:00",
+                      "Descripcion": "Adaptador USB-C a USB-A",
+                      "Importe": 1.60
+                    }
+                  ]
+                },
                 {
                   "Id": 62,
                   "Nombre": "Tornillería",
@@ -12092,162 +12010,9 @@
           ]
         },
         {
-          "Id": 8,
-          "Nombre": "Servicios",
-          "Orden": 80,
-          "Total": 75.39,
-          "Tipos": [
-            {
-              "Id": 1039,
-              "Nombre": "Butano",
-              "Orden": 1039,
-              "Total": 15.39,
-              "Productos": [
-                {
-                  "Id": 2074,
-                  "Nombre": "Butano",
-                  "Total": 15.39,
-                  "Tickets": [
-                    {
-                      "Id": 11007,
-                      "Fecha": "2026-09-01T00:00:00",
-                      "Descripcion": "Butano presupuestado",
-                      "Importe": 15.39
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 5050,
-              "Nombre": "Comunidadd",
-              "Orden": 5050,
-              "Total": 60.00,
-              "Productos": [
-                {
-                  "Id": 9160,
-                  "Nombre": "Comunidad",
-                  "Total": 60.00,
-                  "Tickets": [
-                    {
-                      "Id": 11009,
-                      "Fecha": "2026-09-01T00:00:00",
-                      "Descripcion": "Cuota comunidad",
-                      "Importe": 60.00
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "Id": 9,
-          "Nombre": "Automoción",
-          "Orden": 90,
-          "Total": 231.37,
-          "Tipos": [
-            {
-              "Id": 15,
-              "Nombre": "Mantenimiento vehículo",
-              "Orden": 15,
-              "Total": 31.88,
-              "Productos": [
-                {
-                  "Id": 9159,
-                  "Nombre": "Seguro",
-                  "Total": 31.88,
-                  "Tickets": [
-                    {
-                      "Id": 11003,
-                      "Fecha": "2026-09-01T00:00:00",
-                      "Descripcion": "Seguro vehículo",
-                      "Importe": 31.88
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "Id": 4046,
-              "Nombre": "Gasoil",
-              "Orden": 4046,
-              "Total": 199.49,
-              "Productos": [
-                {
-                  "Id": 5127,
-                  "Nombre": "Gasoil",
-                  "Total": 199.49,
-                  "Tickets": [
-                    {
-                      "Id": 10904,
-                      "Fecha": "2026-07-22T15:00:00",
-                      "Descripcion": "Gasoil",
-                      "Importe": 40.00
-                    },
-                    {
-                      "Id": 10915,
-                      "Fecha": "2026-07-28T10:00:00",
-                      "Descripcion": "Gasoil",
-                      "Importe": 89.49
-                    },
-                    {
-                      "Id": 10921,
-                      "Fecha": "2026-08-10T20:00:00",
-                      "Descripcion": "Gasoil",
-                      "Importe": 40.00
-                    },
-                    {
-                      "Id": 11928,
-                      "Fecha": "2026-08-15T17:30:00",
-                      "Descripcion": "Gasoil",
-                      "Importe": 30.00
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "Id": 10,
-          "Nombre": "Nancyprimor",
-          "Orden": 95,
-          "Total": 17.85,
-          "Tipos": [
-            {
-              "Id": 4044,
-              "Nombre": "Mercería",
-              "Orden": 4044,
-              "Total": 17.85,
-              "Productos": [
-                {
-                  "Id": 5124,
-                  "Nombre": "Adornos",
-                  "Total": 17.85,
-                  "Tickets": [
-                    {
-                      "Id": 10914,
-                      "Fecha": "2026-07-27T21:40:00",
-                      "Descripcion": "?",
-                      "Importe": 17.00
-                    },
-                    {
-                      "Id": 11964,
-                      "Fecha": "2026-08-17T19:35:00",
-                      "Descripcion": "Bolsa regalo 7*9cm ",
-                      "Importe": 0.85
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "Id": 11,
           "Nombre": "Financiado",
-          "Orden": 97,
+          "Orden": 90,
           "Total": 1271.29,
           "Tipos": [
             {
@@ -12440,7 +12205,7 @@
         {
           "Id": 12,
           "Nombre": "Recibos del hogar",
-          "Orden": 98,
+          "Orden": 100,
           "Total": 247.50,
           "Tipos": [
             {
@@ -12511,6 +12276,695 @@
                       "Fecha": "2026-09-01T00:00:00",
                       "Descripcion": "Teléfono/Datos & TV",
                       "Importe": 70.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 9,
+          "Nombre": "Automoción",
+          "Orden": 110,
+          "Total": 231.37,
+          "Tipos": [
+            {
+              "Id": 15,
+              "Nombre": "Mantenimiento vehículo",
+              "Orden": 15,
+              "Total": 31.88,
+              "Productos": [
+                {
+                  "Id": 9159,
+                  "Nombre": "Seguro",
+                  "Total": 31.88,
+                  "Tickets": [
+                    {
+                      "Id": 11003,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Seguro vehículo",
+                      "Importe": 31.88
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4046,
+              "Nombre": "Gasoil",
+              "Orden": 4046,
+              "Total": 199.49,
+              "Productos": [
+                {
+                  "Id": 5127,
+                  "Nombre": "Gasoil",
+                  "Total": 199.49,
+                  "Tickets": [
+                    {
+                      "Id": 10904,
+                      "Fecha": "2026-07-22T15:00:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 40.00
+                    },
+                    {
+                      "Id": 10915,
+                      "Fecha": "2026-07-28T10:00:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 89.49
+                    },
+                    {
+                      "Id": 10921,
+                      "Fecha": "2026-08-10T20:00:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 40.00
+                    },
+                    {
+                      "Id": 11928,
+                      "Fecha": "2026-08-15T17:30:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 30.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 8,
+          "Nombre": "Servicios",
+          "Orden": 111,
+          "Total": 75.39,
+          "Tipos": [
+            {
+              "Id": 1039,
+              "Nombre": "Butano",
+              "Orden": 1039,
+              "Total": 15.39,
+              "Productos": [
+                {
+                  "Id": 2074,
+                  "Nombre": "Butano",
+                  "Total": 15.39,
+                  "Tickets": [
+                    {
+                      "Id": 11007,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Butano presupuestado",
+                      "Importe": 15.39
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 5050,
+              "Nombre": "Comunidadd",
+              "Orden": 5050,
+              "Total": 60.00,
+              "Productos": [
+                {
+                  "Id": 9160,
+                  "Nombre": "Comunidad",
+                  "Total": 60.00,
+                  "Tickets": [
+                    {
+                      "Id": 11009,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Cuota comunidad",
+                      "Importe": 60.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "Nombre": "Higiene y cuidado personal",
+          "Orden": 112,
+          "Total": 107.70,
+          "Tipos": [
+            {
+              "Id": 24,
+              "Nombre": "Droguería personal",
+              "Orden": 24,
+              "Total": 7.39,
+              "Productos": [
+                {
+                  "Id": 21,
+                  "Nombre": "Dentífrico",
+                  "Total": 5.82,
+                  "Tickets": [
+                    {
+                      "Id": 9771,
+                      "Fecha": "2026-07-31T14:24:26",
+                      "Descripcion": "CREMA DENTAL SE",
+                      "Importe": 2.91
+                    },
+                    {
+                      "Id": 9772,
+                      "Fecha": "2026-07-31T14:24:26",
+                      "Descripcion": "CREMA DENTAL SE",
+                      "Importe": 2.91
+                    }
+                  ]
+                },
+                {
+                  "Id": 24,
+                  "Nombre": "Gel de baño",
+                  "Total": 1.57,
+                  "Tickets": [
+                    {
+                      "Id": 9764,
+                      "Fecha": "2026-07-31T14:24:26",
+                      "Descripcion": "GEL BAÑO CLASSIC",
+                      "Importe": 1.57
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4045,
+              "Nombre": "Farmacia",
+              "Orden": 4045,
+              "Total": 47.81,
+              "Productos": [
+                {
+                  "Id": 5126,
+                  "Nombre": "Medicinas",
+                  "Total": 47.81,
+                  "Tickets": [
+                    {
+                      "Id": 7715,
+                      "Fecha": "2026-07-21T13:18:00",
+                      "Descripcion": "Colecoxib alter 200 mg",
+                      "Importe": 11.14
+                    },
+                    {
+                      "Id": 7716,
+                      "Fecha": "2026-07-21T13:18:00",
+                      "Descripcion": "Inreq",
+                      "Importe": 5.48
+                    },
+                    {
+                      "Id": 7717,
+                      "Fecha": "2026-07-21T13:18:00",
+                      "Descripcion": "Inreq",
+                      "Importe": 5.48
+                    },
+                    {
+                      "Id": 7718,
+                      "Fecha": "2026-07-21T13:18:00",
+                      "Descripcion": "Inreq",
+                      "Importe": -10.96
+                    },
+                    {
+                      "Id": 12922,
+                      "Fecha": "2026-07-28T15:00:00",
+                      "Descripcion": "?",
+                      "Importe": 8.84
+                    },
+                    {
+                      "Id": 10917,
+                      "Fecha": "2026-08-04T17:00:00",
+                      "Descripcion": "?",
+                      "Importe": 3.14
+                    },
+                    {
+                      "Id": 10918,
+                      "Fecha": "2026-08-04T17:10:00",
+                      "Descripcion": "?",
+                      "Importe": 2.94
+                    },
+                    {
+                      "Id": 10922,
+                      "Fecha": "2026-08-10T23:28:00",
+                      "Descripcion": "Rosuvastatina",
+                      "Importe": 4.76
+                    },
+                    {
+                      "Id": 10923,
+                      "Fecha": "2026-08-10T23:28:00",
+                      "Descripcion": "Espidifen 600",
+                      "Importe": 1.25
+                    },
+                    {
+                      "Id": 10924,
+                      "Fecha": "2026-08-10T23:28:00",
+                      "Descripcion": "Blisel",
+                      "Importe": 0.79
+                    },
+                    {
+                      "Id": 11909,
+                      "Fecha": "2026-08-15T17:00:00",
+                      "Descripcion": "Frenadol",
+                      "Importe": 14.95
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 5051,
+              "Nombre": "Peluquería",
+              "Orden": 5051,
+              "Total": 52.50,
+              "Productos": [
+                {
+                  "Id": 9164,
+                  "Nombre": "Peluquería",
+                  "Total": 52.50,
+                  "Tickets": [
+                    {
+                      "Id": 11023,
+                      "Fecha": "2026-09-01T00:00:00",
+                      "Descripcion": "Peluquería presupuestado",
+                      "Importe": 52.50
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 10,
+          "Nombre": "Nancyprimor",
+          "Orden": 120,
+          "Total": 17.85,
+          "Tipos": [
+            {
+              "Id": 4044,
+              "Nombre": "Mercería",
+              "Orden": 4044,
+              "Total": 17.85,
+              "Productos": [
+                {
+                  "Id": 5124,
+                  "Nombre": "Adornos",
+                  "Total": 17.85,
+                  "Tickets": [
+                    {
+                      "Id": 10914,
+                      "Fecha": "2026-07-27T21:40:00",
+                      "Descripcion": "?",
+                      "Importe": 17.00
+                    },
+                    {
+                      "Id": 11964,
+                      "Fecha": "2026-08-17T19:35:00",
+                      "Descripcion": "Bolsa regalo 7*9cm ",
+                      "Importe": 0.85
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "IdPeriodo": 5,
+      "Nombre": "agosto - septiembre",
+      "Desde": "2026-08-20T00:00:00",
+      "Hasta": "2026-09-19T00:00:00",
+      "Presupuesto": 2445.91,
+      "Categorias": [
+        {
+          "Id": 11,
+          "Nombre": "Financiado",
+          "Orden": 90,
+          "Total": 1271.29,
+          "Tipos": [
+            {
+              "Id": 4048,
+              "Nombre": "Revolving",
+              "Orden": 4048,
+              "Total": 409.82,
+              "Productos": [
+                {
+                  "Id": 81,
+                  "Nombre": "Cuota Alcampo",
+                  "Total": 50.00,
+                  "Tickets": [
+                    {
+                      "Id": 13006,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota Alcampo",
+                      "Importe": 50.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 5128,
+                  "Nombre": "Cuota BK línea Directa",
+                  "Total": 124.26,
+                  "Tickets": [
+                    {
+                      "Id": 13010,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota BK línea Directa",
+                      "Importe": 124.26
+                    }
+                  ]
+                },
+                {
+                  "Id": 5107,
+                  "Nombre": "Cuota BK Vodafone",
+                  "Total": 90.71,
+                  "Tickets": [
+                    {
+                      "Id": 13009,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota BK Vodafone",
+                      "Importe": 90.71
+                    }
+                  ]
+                },
+                {
+                  "Id": 4077,
+                  "Nombre": "Cuota Cetelem",
+                  "Total": 64.85,
+                  "Tickets": [
+                    {
+                      "Id": 13008,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota Cetelem",
+                      "Importe": 64.85
+                    }
+                  ]
+                },
+                {
+                  "Id": 5129,
+                  "Nombre": "Cuota Eroski",
+                  "Total": 30.00,
+                  "Tickets": [
+                    {
+                      "Id": 13011,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota Eroski",
+                      "Importe": 30.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 82,
+                  "Nombre": "Cuota Leroy",
+                  "Total": 50.00,
+                  "Tickets": [
+                    {
+                      "Id": 13007,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota Leroy",
+                      "Importe": 50.00
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4049,
+              "Nombre": "Crédito",
+              "Orden": 4049,
+              "Total": 861.47,
+              "Productos": [
+                {
+                  "Id": 5145,
+                  "Nombre": "Cuota BBVA 10,5%",
+                  "Total": 34.39,
+                  "Tickets": [
+                    {
+                      "Id": 13013,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 10,5%",
+                      "Importe": 34.39
+                    }
+                  ]
+                },
+                {
+                  "Id": 5147,
+                  "Nombre": "Cuota BBVA 6%",
+                  "Total": 143.07,
+                  "Tickets": [
+                    {
+                      "Id": 13015,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6%",
+                      "Importe": 143.07
+                    }
+                  ]
+                },
+                {
+                  "Id": 9158,
+                  "Nombre": "Cuota BBVA 6,3%",
+                  "Total": 70.90,
+                  "Tickets": [
+                    {
+                      "Id": 13016,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,3% Boda",
+                      "Importe": 70.90
+                    }
+                  ]
+                },
+                {
+                  "Id": 5146,
+                  "Nombre": "Cuota BBVA 6,75%",
+                  "Total": 131.72,
+                  "Tickets": [
+                    {
+                      "Id": 13014,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,75%",
+                      "Importe": 131.72
+                    }
+                  ]
+                },
+                {
+                  "Id": 5144,
+                  "Nombre": "Cuota Sabadell",
+                  "Total": 14.40,
+                  "Tickets": [
+                    {
+                      "Id": 13012,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota Sabadell",
+                      "Importe": 14.40
+                    }
+                  ]
+                },
+                {
+                  "Id": 9161,
+                  "Nombre": "Fracción Endesa",
+                  "Total": 70.90,
+                  "Tickets": [
+                    {
+                      "Id": 13017,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Endesa fraccionado",
+                      "Importe": 70.90
+                    }
+                  ]
+                },
+                {
+                  "Id": 9163,
+                  "Nombre": "Hipoteca",
+                  "Total": 396.09,
+                  "Tickets": [
+                    {
+                      "Id": 13018,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Hipoteca",
+                      "Importe": 396.09
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 12,
+          "Nombre": "Recibos del hogar",
+          "Orden": 100,
+          "Total": 150.30,
+          "Tipos": [
+            {
+              "Id": 4050,
+              "Nombre": "Recibos",
+              "Orden": 4050,
+              "Total": 150.30,
+              "Productos": [
+                {
+                  "Id": 5148,
+                  "Nombre": "Electricidad",
+                  "Total": 80.16,
+                  "Tickets": [
+                    {
+                      "Id": 13023,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Electricidad",
+                      "Importe": 80.16
+                    }
+                  ]
+                },
+                {
+                  "Id": 5150,
+                  "Nombre": "Teléfono/Datos & TV",
+                  "Total": 70.14,
+                  "Tickets": [
+                    {
+                      "Id": 13024,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Teléfono/Datos & TV",
+                      "Importe": 70.14
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 9,
+          "Nombre": "Automoción",
+          "Orden": 110,
+          "Total": 211.00,
+          "Tipos": [
+            {
+              "Id": 4046,
+              "Nombre": "Gasoil",
+              "Orden": 4046,
+              "Total": 211.00,
+              "Productos": [
+                {
+                  "Id": 5127,
+                  "Nombre": "Gasoil",
+                  "Total": 211.00,
+                  "Tickets": [
+                    {
+                      "Id": 13019,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Gasoil presupuestado",
+                      "Importe": 211.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 8,
+          "Nombre": "Servicios",
+          "Orden": 111,
+          "Total": 133.35,
+          "Tipos": [
+            {
+              "Id": 1039,
+              "Nombre": "Butano",
+              "Orden": 1039,
+              "Total": 15.39,
+              "Productos": [
+                {
+                  "Id": 2074,
+                  "Nombre": "Butano",
+                  "Total": 15.39,
+                  "Tickets": [
+                    {
+                      "Id": 13020,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Butano presupuestado",
+                      "Importe": 15.39
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 6049,
+              "Nombre": "Seguro",
+              "Orden": 1039,
+              "Total": 57.96,
+              "Productos": [
+                {
+                  "Id": 11156,
+                  "Nombre": "Seguro de vida",
+                  "Total": 26.08,
+                  "Tickets": [
+                    {
+                      "Id": 13026,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Seguro de vida",
+                      "Importe": 26.08
+                    }
+                  ]
+                },
+                {
+                  "Id": 11155,
+                  "Nombre": "Seguro del Coche",
+                  "Total": 31.88,
+                  "Tickets": [
+                    {
+                      "Id": 13027,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Seguro del coche",
+                      "Importe": 31.88
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 5050,
+              "Nombre": "Comunidadd",
+              "Orden": 5050,
+              "Total": 60.00,
+              "Productos": [
+                {
+                  "Id": 9160,
+                  "Nombre": "Comunidad",
+                  "Total": 60.00,
+                  "Tickets": [
+                    {
+                      "Id": 13025,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Cuota comunidad",
+                      "Importe": 60.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "Nombre": "Higiene y cuidado personal",
+          "Orden": 112,
+          "Total": 55.00,
+          "Tipos": [
+            {
+              "Id": 5051,
+              "Nombre": "Peluquería",
+              "Orden": 5051,
+              "Total": 55.00,
+              "Productos": [
+                {
+                  "Id": 9164,
+                  "Nombre": "Peluquería",
+                  "Total": 55.00,
+                  "Tickets": [
+                    {
+                      "Id": 13021,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Peluquería presupuestado",
+                      "Importe": 55.00
                     }
                   ]
                 }
