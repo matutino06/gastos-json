@@ -15225,7 +15225,7 @@
           "Id": 3,
           "Nombre": "Higiene y cuidado personal",
           "Orden": 112,
-          "Total": 109.32,
+          "Total": 604.32,
           "Tipos": [
             {
               "Id": 24,
@@ -15397,12 +15397,12 @@
               "Id": 5051,
               "Nombre": "Peluquería",
               "Orden": 5051,
-              "Total": 69.80,
+              "Total": 564.80,
               "Productos": [
                 {
                   "Id": 9164,
                   "Nombre": "Peluquería",
-                  "Total": 69.80,
+                  "Total": 564.80,
                   "Tickets": [
                     {
                       "Id": 13961,
@@ -15414,7 +15414,7 @@
                       "Id": 13021,
                       "Fecha": "2026-10-01T00:00:00",
                       "Descripcion": "Peluquería presupuestado",
-                      "Importe": 55.00
+                      "Importe": 550.00
                     }
                   ]
                 }
