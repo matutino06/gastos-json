@@ -18195,18 +18195,18 @@
           "Id": 9,
           "Nombre": "Automoción",
           "Orden": 110,
-          "Total": 251.79,
+          "Total": 211.00,
           "Tipos": [
             {
               "Id": 4046,
               "Nombre": "Gasoil",
               "Orden": 4046,
-              "Total": 251.79,
+              "Total": 211.00,
               "Productos": [
                 {
                   "Id": 5127,
                   "Nombre": "Gasoil",
-                  "Total": 251.79,
+                  "Total": 211.00,
                   "Tickets": [
                     {
                       "Id": 23961,
@@ -18218,7 +18218,7 @@
                       "Id": 22953,
                       "Fecha": "2026-11-01T00:00:00",
                       "Descripcion": "Gasoil presupuestado",
-                      "Importe": 211.00
+                      "Importe": 170.21
                     }
                   ]
                 }
