@@ -15552,13 +15552,13 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 90,
-          "Total": 1271.50,
+          "Total": 1266.93,
           "Tipos": [
             {
               "Id": 4048,
               "Nombre": "Revolving",
               "Orden": 4048,
-              "Total": 409.82,
+              "Total": 405.25,
               "Productos": [
                 {
                   "Id": 81,
@@ -15576,26 +15576,26 @@
                 {
                   "Id": 5128,
                   "Nombre": "Cuota BK línea Directa",
-                  "Total": 124.26,
+                  "Total": 122.12,
                   "Tickets": [
                     {
                       "Id": 13010,
                       "Fecha": "2026-10-01T00:00:00",
                       "Descripcion": "Cuota BK línea Directa",
-                      "Importe": 124.26
+                      "Importe": 122.12
                     }
                   ]
                 },
                 {
                   "Id": 5107,
                   "Nombre": "Cuota BK Vodafone",
-                  "Total": 90.71,
+                  "Total": 88.28,
                   "Tickets": [
                     {
                       "Id": 13009,
                       "Fecha": "2026-10-01T00:00:00",
                       "Descripcion": "Cuota BK Vodafone",
-                      "Importe": 90.71
+                      "Importe": 88.28
                     }
                   ]
                 },
@@ -15745,13 +15745,13 @@
           "Id": 12,
           "Nombre": "Recibos del hogar",
           "Orden": 100,
-          "Total": 150.30,
+          "Total": 151.35,
           "Tipos": [
             {
               "Id": 4050,
               "Nombre": "Recibos",
               "Orden": 4050,
-              "Total": 150.30,
+              "Total": 151.35,
               "Productos": [
                 {
                   "Id": 5148,
@@ -15763,6 +15763,19 @@
                       "Fecha": "2026-10-01T00:00:00",
                       "Descripcion": "Electricidad",
                       "Importe": 80.16
+                    }
+                  ]
+                },
+                {
+                  "Id": 5152,
+                  "Nombre": "OBE",
+                  "Total": 1.05,
+                  "Tickets": [
+                    {
+                      "Id": 18936,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Autopistas",
+                      "Importe": 1.05
                     }
                   ]
                 },
@@ -16146,18 +16159,18 @@
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 314.97,
+          "Total": 326.97,
           "Tipos": [
             {
               "Id": 10,
               "Nombre": "Café & Infusiones",
               "Orden": 10,
-              "Total": 21.10,
+              "Total": 33.10,
               "Productos": [
                 {
                   "Id": 10,
                   "Nombre": "Café",
-                  "Total": 21.10,
+                  "Total": 33.10,
                   "Tickets": [
                     {
                       "Id": 22004,
@@ -16188,6 +16201,12 @@
                       "Fecha": "2026-09-21T20:50:22",
                       "Descripcion": "CAFE BIO MOLIDO",
                       "Importe": 4.22
+                    },
+                    {
+                      "Id": 25127,
+                      "Fecha": "2026-10-04T20:00:00",
+                      "Descripcion": "Café Tricolor",
+                      "Importe": 12.00
                     }
                   ]
                 }
