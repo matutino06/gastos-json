@@ -19943,13 +19943,13 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 90,
-          "Total": 1244.02,
+          "Total": 1264.66,
           "Tipos": [
             {
               "Id": 4048,
               "Nombre": "Revolving",
               "Orden": 4048,
-              "Total": 409.82,
+              "Total": 402.97,
               "Productos": [
                 {
                   "Id": 81,
@@ -19967,26 +19967,26 @@
                 {
                   "Id": 5128,
                   "Nombre": "Cuota BK línea Directa",
-                  "Total": 124.26,
+                  "Total": 121.02,
                   "Tickets": [
                     {
                       "Id": 22943,
                       "Fecha": "2026-11-01T00:00:00",
                       "Descripcion": "Cuota BK línea Directa",
-                      "Importe": 124.26
+                      "Importe": 121.02
                     }
                   ]
                 },
                 {
                   "Id": 5107,
                   "Nombre": "Cuota BK Vodafone",
-                  "Total": 90.71,
+                  "Total": 87.10,
                   "Tickets": [
                     {
                       "Id": 22942,
                       "Fecha": "2026-11-01T00:00:00",
                       "Descripcion": "Cuota BK Vodafone",
-                      "Importe": 90.71
+                      "Importe": 87.10
                     }
                   ]
                 },
@@ -20035,7 +20035,7 @@
               "Id": 4049,
               "Nombre": "Crédito",
               "Orden": 4049,
-              "Total": 834.20,
+              "Total": 861.69,
               "Productos": [
                 {
                   "Id": 5145,
@@ -20105,13 +20105,13 @@
                 {
                   "Id": 9161,
                   "Nombre": "Fracción Endesa",
-                  "Total": 43.63,
+                  "Total": 71.12,
                   "Tickets": [
                     {
                       "Id": 22951,
                       "Fecha": "2026-11-01T00:00:00",
                       "Descripcion": "Endesa fraccionado",
-                      "Importe": 43.63
+                      "Importe": 71.12
                     }
                   ]
                 },
@@ -20136,13 +20136,13 @@
           "Id": 12,
           "Nombre": "Recibos del hogar",
           "Orden": 100,
-          "Total": 224.75,
+          "Total": 228.95,
           "Tipos": [
             {
               "Id": 4050,
               "Nombre": "Recibos",
               "Orden": 4050,
-              "Total": 224.75,
+              "Total": 228.95,
               "Productos": [
                 {
                   "Id": 5149,
@@ -20184,6 +20184,19 @@
                   ]
                 },
                 {
+                  "Id": 5152,
+                  "Nombre": "OBE",
+                  "Total": 4.20,
+                  "Tickets": [
+                    {
+                      "Id": 22962,
+                      "Fecha": "2026-11-01T00:00:00",
+                      "Descripcion": "Autopistas",
+                      "Importe": 4.20
+                    }
+                  ]
+                },
+                {
                   "Id": 5150,
                   "Nombre": "Teléfono/Datos & TV",
                   "Total": 70.14,
@@ -20204,18 +20217,18 @@
           "Id": 9,
           "Nombre": "Automoción",
           "Orden": 110,
-          "Total": 241.00,
+          "Total": 197.55,
           "Tipos": [
             {
               "Id": 4046,
               "Nombre": "Gasoil",
               "Orden": 4046,
-              "Total": 241.00,
+              "Total": 197.55,
               "Productos": [
                 {
                   "Id": 5127,
                   "Nombre": "Gasoil",
-                  "Total": 241.00,
+                  "Total": 197.55,
                   "Tickets": [
                     {
                       "Id": 23961,
@@ -20240,12 +20253,6 @@
                       "Fecha": "2026-10-17T17:00:00",
                       "Descripcion": "Gasoil",
                       "Importe": 30.00
-                    },
-                    {
-                      "Id": 22953,
-                      "Fecha": "2026-11-01T00:00:00",
-                      "Descripcion": "Gasoil presupuestado",
-                      "Importe": 43.45
                     }
                   ]
                 }
@@ -20257,7 +20264,7 @@
           "Id": 8,
           "Nombre": "Servicios",
           "Orden": 111,
-          "Total": 189.12,
+          "Total": 171.17,
           "Tipos": [
             {
               "Id": 32,
@@ -20290,24 +20297,18 @@
               "Id": 1039,
               "Nombre": "Butano",
               "Orden": 1039,
-              "Total": 65.41,
+              "Total": 47.46,
               "Productos": [
                 {
                   "Id": 2074,
                   "Nombre": "Butano",
-                  "Total": 65.41,
+                  "Total": 47.46,
                   "Tickets": [
                     {
                       "Id": 33301,
                       "Fecha": "2026-10-25T18:01:00",
                       "Descripcion": "Butano",
                       "Importe": 47.46
-                    },
-                    {
-                      "Id": 22954,
-                      "Fecha": "2026-11-01T00:00:00",
-                      "Descripcion": "Butano presupuestado",
-                      "Importe": 17.95
                     }
                   ]
                 }
@@ -20651,7 +20652,7 @@
           "Id": 1,
           "Nombre": "Alimentación",
           "Orden": 10,
-          "Total": 708.34,
+          "Total": 748.34,
           "Tipos": [
             {
               "Id": 10,
@@ -23160,6 +23161,33 @@
               ]
             },
             {
+              "Id": 10049,
+              "Nombre": "Menú",
+              "Orden": 10049,
+              "Total": 40.00,
+              "Productos": [
+                {
+                  "Id": 17155,
+                  "Nombre": "Menú Pescanova",
+                  "Total": 40.00,
+                  "Tickets": [
+                    {
+                      "Id": 37264,
+                      "Fecha": "2026-10-01T00:00:00",
+                      "Descripcion": "Comida Pescanova",
+                      "Importe": 20.00
+                    },
+                    {
+                      "Id": 37293,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Comida Pescanova",
+                      "Importe": 20.00
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "Id": 14049,
               "Nombre": "Casquería",
               "Orden": 14049,
@@ -23647,13 +23675,13 @@
           "Id": 5,
           "Nombre": "Mascotas",
           "Orden": 50,
-          "Total": 42.18,
+          "Total": 43.38,
           "Tipos": [
             {
               "Id": 18,
               "Nombre": "Mascota",
               "Orden": 18,
-              "Total": 42.18,
+              "Total": 43.38,
               "Productos": [
                 {
                   "Id": 5108,
@@ -23715,7 +23743,7 @@
                 {
                   "Id": 31,
                   "Nombre": "Juguete perro",
-                  "Total": 7.30,
+                  "Total": 8.50,
                   "Tickets": [
                     {
                       "Id": 33298,
@@ -23738,6 +23766,12 @@
                     {
                       "Id": 37198,
                       "Fecha": "2026-11-15T22:00:00",
+                      "Descripcion": "Barra de pan",
+                      "Importe": 1.20
+                    },
+                    {
+                      "Id": 37237,
+                      "Fecha": "2026-11-20T22:00:00",
                       "Descripcion": "Barra de pan",
                       "Importe": 1.20
                     }
@@ -23903,14 +23937,39 @@
           "Id": 2,
           "Nombre": "Bricolaje / Ferretería",
           "Orden": 70,
-          "Total": 1.70,
+          "Total": 18.13,
           "Tipos": [
             {
               "Id": 33,
               "Nombre": "Ferretería",
               "Orden": 33,
-              "Total": 1.70,
+              "Total": 18.13,
               "Productos": [
+                {
+                  "Id": 1074,
+                  "Nombre": "Accesorios butano",
+                  "Total": 16.43,
+                  "Tickets": [
+                    {
+                      "Id": 37234,
+                      "Fecha": "2026-11-20T18:55:00",
+                      "Descripcion": "Regulador de butano",
+                      "Importe": 12.95
+                    },
+                    {
+                      "Id": 37235,
+                      "Fecha": "2026-11-20T18:55:00",
+                      "Descripcion": "Llave de 1/2\"",
+                      "Importe": 2.50
+                    },
+                    {
+                      "Id": 37236,
+                      "Fecha": "2026-11-20T18:55:00",
+                      "Descripcion": "Teflón + estopa",
+                      "Importe": 0.98
+                    }
+                  ]
+                },
                 {
                   "Id": 26165,
                   "Nombre": "Pilas",
@@ -23932,31 +23991,63 @@
           "Id": 11,
           "Nombre": "Financiado",
           "Orden": 90,
-          "Total": 21.28,
+          "Total": 1265.30,
           "Tipos": [
             {
               "Id": 4048,
               "Nombre": "Revolving",
               "Orden": 4048,
-              "Total": 21.28,
+              "Total": 431.10,
               "Productos": [
                 {
                   "Id": 81,
                   "Nombre": "Cuota Alcampo",
-                  "Total": 2.95,
+                  "Total": 52.95,
                   "Tickets": [
                     {
                       "Id": 36297,
                       "Fecha": "2026-11-06T19:48:00",
                       "Descripcion": "QUESO CHEDDAR",
                       "Importe": 2.95
+                    },
+                    {
+                      "Id": 37266,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota Alcampo",
+                      "Importe": 50.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 5128,
+                  "Nombre": "Cuota BK línea Directa",
+                  "Total": 124.26,
+                  "Tickets": [
+                    {
+                      "Id": 37270,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota BK línea Directa",
+                      "Importe": 124.26
+                    }
+                  ]
+                },
+                {
+                  "Id": 5107,
+                  "Nombre": "Cuota BK Vodafone",
+                  "Total": 90.71,
+                  "Tickets": [
+                    {
+                      "Id": 37269,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota BK Vodafone",
+                      "Importe": 90.71
                     }
                   ]
                 },
                 {
                   "Id": 4077,
                   "Nombre": "Cuota Cetelem",
-                  "Total": 6.54,
+                  "Total": 71.39,
                   "Tickets": [
                     {
                       "Id": 36214,
@@ -23981,13 +24072,32 @@
                       "Fecha": "2026-11-10T20:50:00",
                       "Descripcion": "QUESO BRIE PORCION",
                       "Importe": 1.65
+                    },
+                    {
+                      "Id": 37268,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota Cetelem",
+                      "Importe": 64.85
+                    }
+                  ]
+                },
+                {
+                  "Id": 5129,
+                  "Nombre": "Cuota Eroski",
+                  "Total": 30.00,
+                  "Tickets": [
+                    {
+                      "Id": 37271,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota Eroski",
+                      "Importe": 30.00
                     }
                   ]
                 },
                 {
                   "Id": 82,
                   "Nombre": "Cuota Leroy",
-                  "Total": 11.79,
+                  "Total": 61.79,
                   "Tickets": [
                     {
                       "Id": 36355,
@@ -24000,6 +24110,179 @@
                       "Fecha": "2026-11-17T19:49:00",
                       "Descripcion": "QUESO TRUFA",
                       "Importe": 5.72
+                    },
+                    {
+                      "Id": 37267,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota Leroy",
+                      "Importe": 50.00
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4049,
+              "Nombre": "Crédito",
+              "Orden": 4049,
+              "Total": 834.20,
+              "Productos": [
+                {
+                  "Id": 5145,
+                  "Nombre": "Cuota BBVA 10,5%",
+                  "Total": 34.39,
+                  "Tickets": [
+                    {
+                      "Id": 37273,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 10,5%",
+                      "Importe": 34.39
+                    }
+                  ]
+                },
+                {
+                  "Id": 5147,
+                  "Nombre": "Cuota BBVA 6%",
+                  "Total": 143.07,
+                  "Tickets": [
+                    {
+                      "Id": 37275,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6%",
+                      "Importe": 143.07
+                    }
+                  ]
+                },
+                {
+                  "Id": 9158,
+                  "Nombre": "Cuota BBVA 6,3%",
+                  "Total": 70.90,
+                  "Tickets": [
+                    {
+                      "Id": 37276,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,3% Boda",
+                      "Importe": 70.90
+                    }
+                  ]
+                },
+                {
+                  "Id": 5146,
+                  "Nombre": "Cuota BBVA 6,75%",
+                  "Total": 131.72,
+                  "Tickets": [
+                    {
+                      "Id": 37274,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,75%",
+                      "Importe": 131.72
+                    }
+                  ]
+                },
+                {
+                  "Id": 5144,
+                  "Nombre": "Cuota Sabadell",
+                  "Total": 14.40,
+                  "Tickets": [
+                    {
+                      "Id": 37272,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota Sabadell",
+                      "Importe": 14.40
+                    }
+                  ]
+                },
+                {
+                  "Id": 9161,
+                  "Nombre": "Fracción Endesa",
+                  "Total": 43.63,
+                  "Tickets": [
+                    {
+                      "Id": 37277,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Endesa fraccionado",
+                      "Importe": 43.63
+                    }
+                  ]
+                },
+                {
+                  "Id": 9163,
+                  "Nombre": "Hipoteca",
+                  "Total": 396.09,
+                  "Tickets": [
+                    {
+                      "Id": 37278,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Hipoteca",
+                      "Importe": 396.09
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 12,
+          "Nombre": "Recibos del hogar",
+          "Orden": 100,
+          "Total": 224.75,
+          "Tipos": [
+            {
+              "Id": 4050,
+              "Nombre": "Recibos",
+              "Orden": 4050,
+              "Total": 224.75,
+              "Productos": [
+                {
+                  "Id": 5149,
+                  "Nombre": "Agua",
+                  "Total": 65.46,
+                  "Tickets": [
+                    {
+                      "Id": 37282,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Agua",
+                      "Importe": 65.46
+                    }
+                  ]
+                },
+                {
+                  "Id": 5148,
+                  "Nombre": "Electricidad",
+                  "Total": 80.16,
+                  "Tickets": [
+                    {
+                      "Id": 37283,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Electricidad",
+                      "Importe": 80.16
+                    }
+                  ]
+                },
+                {
+                  "Id": 5153,
+                  "Nombre": "Netflix",
+                  "Total": 8.99,
+                  "Tickets": [
+                    {
+                      "Id": 37289,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Netflix",
+                      "Importe": 8.99
+                    }
+                  ]
+                },
+                {
+                  "Id": 5150,
+                  "Nombre": "Teléfono/Datos & TV",
+                  "Total": 70.14,
+                  "Tickets": [
+                    {
+                      "Id": 37284,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Teléfono/Datos & TV",
+                      "Importe": 70.14
                     }
                   ]
                 }
@@ -24011,18 +24294,18 @@
           "Id": 9,
           "Nombre": "Automoción",
           "Orden": 110,
-          "Total": 201.71,
+          "Total": 432.71,
           "Tipos": [
             {
               "Id": 4046,
               "Nombre": "Gasoil",
               "Orden": 4046,
-              "Total": 201.71,
+              "Total": 432.71,
               "Productos": [
                 {
                   "Id": 5127,
                   "Nombre": "Gasoil",
-                  "Total": 201.71,
+                  "Total": 432.71,
                   "Tickets": [
                     {
                       "Id": 37153,
@@ -24035,6 +24318,18 @@
                       "Fecha": "2026-11-04T21:08:00",
                       "Descripcion": "Gasoil",
                       "Importe": 103.92
+                    },
+                    {
+                      "Id": 37233,
+                      "Fecha": "2026-11-18T18:00:00",
+                      "Descripcion": "Gasoil",
+                      "Importe": 20.00
+                    },
+                    {
+                      "Id": 37279,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Gasoil presupuestado",
+                      "Importe": 211.00
                     }
                   ]
                 }
@@ -24046,7 +24341,7 @@
           "Id": 8,
           "Nombre": "Servicios",
           "Orden": 111,
-          "Total": 3.25,
+          "Total": 204.57,
           "Tipos": [
             {
               "Id": 32,
@@ -24074,6 +24369,88 @@
                   ]
                 }
               ]
+            },
+            {
+              "Id": 1039,
+              "Nombre": "Butano",
+              "Orden": 1039,
+              "Total": 83.36,
+              "Productos": [
+                {
+                  "Id": 2074,
+                  "Nombre": "Butano",
+                  "Total": 83.36,
+                  "Tickets": [
+                    {
+                      "Id": 37280,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Butano presupuestado",
+                      "Importe": 35.90
+                    },
+                    {
+                      "Id": 37290,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Butano",
+                      "Importe": 47.46
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 6049,
+              "Nombre": "Seguro",
+              "Orden": 1039,
+              "Total": 57.96,
+              "Productos": [
+                {
+                  "Id": 11156,
+                  "Nombre": "Seguro de vida",
+                  "Total": 26.08,
+                  "Tickets": [
+                    {
+                      "Id": 37286,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Seguro de vida",
+                      "Importe": 26.08
+                    }
+                  ]
+                },
+                {
+                  "Id": 11155,
+                  "Nombre": "Seguro del Coche",
+                  "Total": 31.88,
+                  "Tickets": [
+                    {
+                      "Id": 37287,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Seguro del coche",
+                      "Importe": 31.88
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 5050,
+              "Nombre": "Comunidadd",
+              "Orden": 5050,
+              "Total": 60.00,
+              "Productos": [
+                {
+                  "Id": 9160,
+                  "Nombre": "Comunidad",
+                  "Total": 60.00,
+                  "Tickets": [
+                    {
+                      "Id": 37285,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Cuota comunidad",
+                      "Importe": 60.00
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -24081,7 +24458,7 @@
           "Id": 3,
           "Nombre": "Higiene y cuidado personal",
           "Orden": 112,
-          "Total": 61.97,
+          "Total": 116.97,
           "Tipos": [
             {
               "Id": 24,
@@ -24285,18 +24662,471 @@
               "Id": 5051,
               "Nombre": "Peluquería",
               "Orden": 5051,
-              "Total": 14.80,
+              "Total": 69.80,
               "Productos": [
                 {
                   "Id": 9164,
                   "Nombre": "Peluquería",
-                  "Total": 14.80,
+                  "Total": 69.80,
                   "Tickets": [
                     {
                       "Id": 37163,
                       "Fecha": "2026-11-03T18:20:00",
                       "Descripcion": "Peluquero caballero",
                       "Importe": 14.80
+                    },
+                    {
+                      "Id": 37281,
+                      "Fecha": "2026-12-01T00:00:00",
+                      "Descripcion": "Peluquería presupuestado",
+                      "Importe": 55.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "IdPeriodo": 2701,
+      "Nombre": "noviembre - diciembre",
+      "Desde": "2026-11-20T00:00:00",
+      "Hasta": "2026-12-19T23:59:00",
+      "Presupuesto": 2482.49,
+      "Categorias": [
+        {
+          "Id": 1,
+          "Nombre": "Alimentación",
+          "Orden": 10,
+          "Total": 20.00,
+          "Tipos": [
+            {
+              "Id": 10049,
+              "Nombre": "Menú",
+              "Orden": 10049,
+              "Total": 20.00,
+              "Productos": [
+                {
+                  "Id": 17155,
+                  "Nombre": "Menú Pescanova",
+                  "Total": 20.00,
+                  "Tickets": [
+                    {
+                      "Id": 37323,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Comida Pescanova",
+                      "Importe": 20.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 11,
+          "Nombre": "Financiado",
+          "Orden": 90,
+          "Total": 1244.02,
+          "Tipos": [
+            {
+              "Id": 4048,
+              "Nombre": "Revolving",
+              "Orden": 4048,
+              "Total": 409.82,
+              "Productos": [
+                {
+                  "Id": 81,
+                  "Nombre": "Cuota Alcampo",
+                  "Total": 50.00,
+                  "Tickets": [
+                    {
+                      "Id": 37298,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota Alcampo",
+                      "Importe": 50.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 5128,
+                  "Nombre": "Cuota BK línea Directa",
+                  "Total": 124.26,
+                  "Tickets": [
+                    {
+                      "Id": 37302,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota BK línea Directa",
+                      "Importe": 124.26
+                    }
+                  ]
+                },
+                {
+                  "Id": 5107,
+                  "Nombre": "Cuota BK Vodafone",
+                  "Total": 90.71,
+                  "Tickets": [
+                    {
+                      "Id": 37301,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota BK Vodafone",
+                      "Importe": 90.71
+                    }
+                  ]
+                },
+                {
+                  "Id": 4077,
+                  "Nombre": "Cuota Cetelem",
+                  "Total": 64.85,
+                  "Tickets": [
+                    {
+                      "Id": 37300,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota Cetelem",
+                      "Importe": 64.85
+                    }
+                  ]
+                },
+                {
+                  "Id": 5129,
+                  "Nombre": "Cuota Eroski",
+                  "Total": 30.00,
+                  "Tickets": [
+                    {
+                      "Id": 37303,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota Eroski",
+                      "Importe": 30.00
+                    }
+                  ]
+                },
+                {
+                  "Id": 82,
+                  "Nombre": "Cuota Leroy",
+                  "Total": 50.00,
+                  "Tickets": [
+                    {
+                      "Id": 37299,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota Leroy",
+                      "Importe": 50.00
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 4049,
+              "Nombre": "Crédito",
+              "Orden": 4049,
+              "Total": 834.20,
+              "Productos": [
+                {
+                  "Id": 5145,
+                  "Nombre": "Cuota BBVA 10,5%",
+                  "Total": 34.39,
+                  "Tickets": [
+                    {
+                      "Id": 37305,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 10,5%",
+                      "Importe": 34.39
+                    }
+                  ]
+                },
+                {
+                  "Id": 5147,
+                  "Nombre": "Cuota BBVA 6%",
+                  "Total": 143.07,
+                  "Tickets": [
+                    {
+                      "Id": 37307,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6%",
+                      "Importe": 143.07
+                    }
+                  ]
+                },
+                {
+                  "Id": 9158,
+                  "Nombre": "Cuota BBVA 6,3%",
+                  "Total": 70.90,
+                  "Tickets": [
+                    {
+                      "Id": 37308,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,3% Boda",
+                      "Importe": 70.90
+                    }
+                  ]
+                },
+                {
+                  "Id": 5146,
+                  "Nombre": "Cuota BBVA 6,75%",
+                  "Total": 131.72,
+                  "Tickets": [
+                    {
+                      "Id": 37306,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota BBVA 6,75%",
+                      "Importe": 131.72
+                    }
+                  ]
+                },
+                {
+                  "Id": 5144,
+                  "Nombre": "Cuota Sabadell",
+                  "Total": 14.40,
+                  "Tickets": [
+                    {
+                      "Id": 37304,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota Sabadell",
+                      "Importe": 14.40
+                    }
+                  ]
+                },
+                {
+                  "Id": 9161,
+                  "Nombre": "Fracción Endesa",
+                  "Total": 43.63,
+                  "Tickets": [
+                    {
+                      "Id": 37309,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Endesa fraccionado",
+                      "Importe": 43.63
+                    }
+                  ]
+                },
+                {
+                  "Id": 9163,
+                  "Nombre": "Hipoteca",
+                  "Total": 396.09,
+                  "Tickets": [
+                    {
+                      "Id": 37310,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Hipoteca",
+                      "Importe": 396.09
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 12,
+          "Nombre": "Recibos del hogar",
+          "Orden": 100,
+          "Total": 224.75,
+          "Tipos": [
+            {
+              "Id": 4050,
+              "Nombre": "Recibos",
+              "Orden": 4050,
+              "Total": 224.75,
+              "Productos": [
+                {
+                  "Id": 5149,
+                  "Nombre": "Agua",
+                  "Total": 65.46,
+                  "Tickets": [
+                    {
+                      "Id": 37314,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Agua",
+                      "Importe": 65.46
+                    }
+                  ]
+                },
+                {
+                  "Id": 5148,
+                  "Nombre": "Electricidad",
+                  "Total": 80.16,
+                  "Tickets": [
+                    {
+                      "Id": 37315,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Electricidad",
+                      "Importe": 80.16
+                    }
+                  ]
+                },
+                {
+                  "Id": 5153,
+                  "Nombre": "Netflix",
+                  "Total": 8.99,
+                  "Tickets": [
+                    {
+                      "Id": 37321,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Netflix",
+                      "Importe": 8.99
+                    }
+                  ]
+                },
+                {
+                  "Id": 5150,
+                  "Nombre": "Teléfono/Datos & TV",
+                  "Total": 70.14,
+                  "Tickets": [
+                    {
+                      "Id": 37316,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Teléfono/Datos & TV",
+                      "Importe": 70.14
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 9,
+          "Nombre": "Automoción",
+          "Orden": 110,
+          "Total": 211.00,
+          "Tipos": [
+            {
+              "Id": 4046,
+              "Nombre": "Gasoil",
+              "Orden": 4046,
+              "Total": 211.00,
+              "Productos": [
+                {
+                  "Id": 5127,
+                  "Nombre": "Gasoil",
+                  "Total": 211.00,
+                  "Tickets": [
+                    {
+                      "Id": 37311,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Gasoil presupuestado",
+                      "Importe": 211.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 8,
+          "Nombre": "Servicios",
+          "Orden": 111,
+          "Total": 201.32,
+          "Tipos": [
+            {
+              "Id": 1039,
+              "Nombre": "Butano",
+              "Orden": 1039,
+              "Total": 83.36,
+              "Productos": [
+                {
+                  "Id": 2074,
+                  "Nombre": "Butano",
+                  "Total": 83.36,
+                  "Tickets": [
+                    {
+                      "Id": 37312,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Butano presupuestado",
+                      "Importe": 35.90
+                    },
+                    {
+                      "Id": 37322,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Butano",
+                      "Importe": 47.46
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 6049,
+              "Nombre": "Seguro",
+              "Orden": 1039,
+              "Total": 57.96,
+              "Productos": [
+                {
+                  "Id": 11156,
+                  "Nombre": "Seguro de vida",
+                  "Total": 26.08,
+                  "Tickets": [
+                    {
+                      "Id": 37318,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Seguro de vida",
+                      "Importe": 26.08
+                    }
+                  ]
+                },
+                {
+                  "Id": 11155,
+                  "Nombre": "Seguro del Coche",
+                  "Total": 31.88,
+                  "Tickets": [
+                    {
+                      "Id": 37319,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Seguro del coche",
+                      "Importe": 31.88
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 5050,
+              "Nombre": "Comunidadd",
+              "Orden": 5050,
+              "Total": 60.00,
+              "Productos": [
+                {
+                  "Id": 9160,
+                  "Nombre": "Comunidad",
+                  "Total": 60.00,
+                  "Tickets": [
+                    {
+                      "Id": 37317,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Cuota comunidad",
+                      "Importe": 60.00
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "Nombre": "Higiene y cuidado personal",
+          "Orden": 112,
+          "Total": 55.00,
+          "Tipos": [
+            {
+              "Id": 5051,
+              "Nombre": "Peluquería",
+              "Orden": 5051,
+              "Total": 55.00,
+              "Productos": [
+                {
+                  "Id": 9164,
+                  "Nombre": "Peluquería",
+                  "Total": 55.00,
+                  "Tickets": [
+                    {
+                      "Id": 37313,
+                      "Fecha": "2027-01-01T00:00:00",
+                      "Descripcion": "Peluquería presupuestado",
+                      "Importe": 55.00
                     }
                   ]
                 }
