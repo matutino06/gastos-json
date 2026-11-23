@@ -20136,13 +20136,13 @@
           "Id": 12,
           "Nombre": "Recibos del hogar",
           "Orden": 100,
-          "Total": 228.95,
+          "Total": 192.42,
           "Tipos": [
             {
               "Id": 4050,
               "Nombre": "Recibos",
               "Orden": 4050,
-              "Total": 228.95,
+              "Total": 192.42,
               "Productos": [
                 {
                   "Id": 5149,
@@ -20160,13 +20160,13 @@
                 {
                   "Id": 5148,
                   "Nombre": "Electricidad",
-                  "Total": 80.16,
+                  "Total": 43.63,
                   "Tickets": [
                     {
                       "Id": 22957,
                       "Fecha": "2026-11-01T00:00:00",
                       "Descripcion": "Electricidad",
-                      "Importe": 80.16
+                      "Importe": 43.63
                     }
                   ]
                 },
@@ -24226,13 +24226,13 @@
           "Id": 12,
           "Nombre": "Recibos del hogar",
           "Orden": 100,
-          "Total": 224.75,
+          "Total": 211.42,
           "Tipos": [
             {
               "Id": 4050,
               "Nombre": "Recibos",
               "Orden": 4050,
-              "Total": 224.75,
+              "Total": 211.42,
               "Productos": [
                 {
                   "Id": 5149,
@@ -24250,13 +24250,13 @@
                 {
                   "Id": 5148,
                   "Nombre": "Electricidad",
-                  "Total": 80.16,
+                  "Total": 66.83,
                   "Tickets": [
                     {
                       "Id": 37283,
                       "Fecha": "2026-12-01T00:00:00",
                       "Descripcion": "Electricidad",
-                      "Importe": 80.16
+                      "Importe": 66.83
                     }
                   ]
                 },
@@ -24922,13 +24922,13 @@
           "Id": 12,
           "Nombre": "Recibos del hogar",
           "Orden": 100,
-          "Total": 224.75,
+          "Total": 212.69,
           "Tipos": [
             {
               "Id": 4050,
               "Nombre": "Recibos",
               "Orden": 4050,
-              "Total": 224.75,
+              "Total": 212.69,
               "Productos": [
                 {
                   "Id": 5149,
@@ -24946,13 +24946,13 @@
                 {
                   "Id": 5148,
                   "Nombre": "Electricidad",
-                  "Total": 80.16,
+                  "Total": 68.10,
                   "Tickets": [
                     {
                       "Id": 37315,
                       "Fecha": "2027-01-01T00:00:00",
                       "Descripcion": "Electricidad",
-                      "Importe": 80.16
+                      "Importe": 68.10
                     }
                   ]
                 },
